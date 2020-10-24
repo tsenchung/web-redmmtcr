@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Red MMT Costa Rica</title>
+    <link>https://www.example.org/es/posts/</link>
+    <description>Recent content in Posts on Red MMT Costa Rica</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright &amp;copy; 2020 - Red MMT Costa Rica</copyright>
+    <lastBuildDate>Wed, 21 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.example.org/es/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>La deuda publica y los dolares del FMI</title>
+      <link>https://www.example.org/es/posts/deuda-publica-dolares-fmi/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/es/posts/deuda-publica-dolares-fmi/</guid>
+      <description>La mayoría de los artículos de opinión sobre la economía del país son difíciles de entender para la población no especializada. Ante la difícil situación económica que atraviesa Costa Rica, consideramos imprescindible que la ciudadanía tenga una comprensión más profunda de ciertos conceptos fundamentales y así poder tener una discusión informada de las alternativas.</description>
+    </item>
+    
+  </channel>
+</rss>

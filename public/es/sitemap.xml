@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.org/es/posts/deuda-publica-dolares-fmi/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/posts/deuda-publica-dolares-fmi/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/posts/deuda-publica-dolares-fmi/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/es/posts/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/es/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://www.example.org/gr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://www.example.org/gr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/es/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://www.example.org/gr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/tags/"
+                />
+  </url>
+  
+</urlset>

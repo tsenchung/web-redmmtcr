@@ -1,0 +1,38 @@
+baseurl = "https://www.example.org/"
+title = "Red MMT Costa Rica"
+copyright = "Copyright &copy; 2020 - Red MMT Costa Rica"
+canonifyurls = true
+theme = "tale"
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+  name = ""
+  github = "funkydan2"
+  gitlab = ""
+  linkedin = ""
+  facebook = ""
+  twitter = "ds_says"
+  instagram = ""
+
+[params]
+  tagline = "Algun tagline~~~~"
+  customCSS = ["/style.css"]
+
+DefaultContentLanguage = "es"
+[languages]
+  [languages.en]
+    title = "Red MMT Costa Rica"
+    languageName = "English"
+    weight = 1
+  [languages.es]
+    title = "Red MMT Costa Rica"
+    languageName = "Spanish"
+    weight = 1
+  [languages.gr]
+    title = "Η Νεα μου Ιστιοσελιδα"
+    languageName = "Greek"
+    weight = 2

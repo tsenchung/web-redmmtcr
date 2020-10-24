@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.example.org/gr/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://www.example.org/gr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/gr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://www.example.org/gr/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.example.org/gr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.example.org/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.example.org/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="gr"
+                href="https://www.example.org/gr/"
+                />
+  </url>
+  
+</urlset>
