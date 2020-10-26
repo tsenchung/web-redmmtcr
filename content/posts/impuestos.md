@@ -1,3 +1,13 @@
+---
+author: "Mauricio Chaves, Tsen Chung, Mauricio Gutierrez, Mauricio Morua"
+date: 2020-10-21
+linktitle: Impuestos - TBD
+title: Impuestos - TBD
+image : ""
+draft: true
+---
+
+
 # Outline
 
 ## Intro
