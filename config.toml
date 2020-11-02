@@ -1,4 +1,4 @@
-baseurl = "https://storage.googleapis.com/red-mmt-cr-web/public/"
+baseurl = "https://redmmt.cr/"
 title = "Red MMT Costa Rica"
 copyright = "Copyright &copy; 2020 - Red MMT Costa Rica"
 canonifyurls = true
