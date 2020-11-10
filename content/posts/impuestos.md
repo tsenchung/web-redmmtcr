@@ -22,24 +22,30 @@ Sin embargo, ¿qué pasaría si nos diéramos cuenta de que nuestra manera de en
 Desde la educación primaria y secundaria se nos habla de los impuestos como la forma en que el gobierno se procura ingresos para financiar sus actividades, tanto a nivel de gobierno central como de sus instituciones descentralizadas y autónomas, las cuales cumplen importantes funciones sociales. 
 Según esta lógica, el gobierno debe recibir ingresos para gastar y, en consecuencia, se dice popularmente que es financiado con el dinero de todos los ciudadanos que cumplen sus deberes tributarios. 
 Así se ha establecido tanto en la ley como en el discurso público y en los programas educativos. 
-Este esquema de "primero ingresos, luego gastos" equipara las finanzas del gobierno con las del sector privado y contribuye de esta forma a una serie de mitos y malentendidos que dificultan el avance en estas discusiones. 
 
-Lo primero que debe comprenderse es que, a nivel gubernamental, el gasto precede a los ingresos. 
-Es decir, el gobierno debe "gastar" antes de cobrar impuestos, pues si el gobierno no colocara colones en manos de sus ciudadanos, estos no tendrían ninguna capacidad de pagar impuestos.  
-Visualizar este proceso implica entender la forma en que el dinero es primero creado e introducido por el gobierno con la autorización de la Asamblea Legislativa cuando esta aprueba el presupuesto nacional.   
+Este esquema de "primero ingresos, luego gastos" equipara las finanzas del gobierno con las del sector privado y contribuye de esta forma a una serie de mitos y malentendidos que dificultan el avance en estas discusiones. 
+Entre ellos, uno de los mitos más negativos es el que en otros países se conoce como "ciudadanía tributaria", que consiste en una serie de diferenciaciones tácitas entre los ciudadanos según la cantidad de impuestos que estos paguen, haciendo de las clases trabajadoras "ciudadanos de segunda categoría" debido al tamaño de sus "aportes". Evidentemente, esta forma tradicional de comprender los impuestos contribuye a la acumulación del poder en las clases más privilegiadas. 
+
+Frente a esto, lo primero que debe comprenderse es que, a nivel gubernamental, el gasto precede a los ingresos. 
+Es decir, el gobierno debe "gastar" antes de cobrar impuestos, pues si el gobierno no colocara colones en manos de sus ciudadanos, estos no tendrían ninguna capacidad de pagar impuestos. Así, ante las necesidades económicas de la época, el 27 de octubre de 1824 se emitió la primera Ley de la Moneda en Costa Rica, a través de la cual se crearon doscientosmil pesos en tres valores y pesos distintos. 
+Cuatro meses después, en febrero de 1825, se aprobó el decreto que les otorgaba legalidad y, simultáneamente, obligaba con ello a la "exacción de los derechos correspondientes" por parte del estado. 
+Como ilustra este momento fundacional de la historia de la moneda en Costa Rica, el gobierno no puede tener ingresos previos a sus gastos, sino que debe "gastar" o crear el dinero para que exista la posibilidad de obtener ingresos. 
+Al día de hoy, visualizar este simple proceso implica entender la forma en que el dinero es primero creado e introducido por el gobierno con la autorización de la Asamblea Legislativa cuando esta aprueba el presupuesto nacional.   
 Ahora bien, si el gobierno puede crear dinero, ¿para qué cobra impuestos?
 
 
 ## Crear demanda para la moneda
-- La historia de Graeber sobre el rey y la moneda.
+- La primera función de los impuestos y, posiblemente, la más importante de todas, es la de crear demanda para la moneda nacional. La historia de Graeber sobre el rey y la moneda.
  
 ## Reducir la desigualdad
 
 - Uso de impuestos progresivos para reducir la desigualdad. Explicar como funcionan los impuestos escalonados
 Una segunda función de los impuestos consiste en reducir la desigualdad. 
-Si tuviésemos como objetivo reducir la desigualdad, se podría implementar un impuesto progresivo donde los ciudadanos con mayores ingresos paguen más impuestos, mientras que los que tienen menores ingresos pagan menos impuestos.
+En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo (http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016, https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/).
+Si tuviésemos como objetivo reducirla, se podría implementar un impuesto progresivo donde los ciudadanos con mayores ingresos paguen más impuestos, mientras que los que tienen menores ingresos pagan menos impuestos. 
 Un ejemplo de un impuesto progresivo es el impuesto escalonado sobre la renta. Bajo este régimen, una persona (https://eml.berkeley.edu//~saez/diamond-saezJEP11opttax.pdf) (https://github.com/tsen24/web-redmmtcr/issues/5). 
-Sostener la idea de que estos impuestos progresivos financiarían el gasto público sería un contrasentido, pues no solamente justificaría sino que incentivaría la existencia de rentas altas por su aparente beneficio social, sin contar con el hecho de que le otorgaría más poder a las clases más privilegiadas para recibir beneficios por parte del estado.
+Sin embargo, debemos ser rigurosos e insistir en que los impuestos no son una forma de financiamiento para un gobierno capaz de crear dinero.
+Sostener la idea de que estos impuestos progresivos financiarían el gasto público sería nuevamente un contrasentido, ya que justificaría e incentivaría la existencia de rentas altas por su aparente beneficio social, sin contar con el hecho de que le otorgaría más poder a las clases más privilegiadas para recibir beneficios por parte del estado.
 
 ## Remover el exceso de dinero de la economía para controlar la inflación
 - Describir la utilidad de un impuesto progresivo para esto
