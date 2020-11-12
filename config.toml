@@ -12,8 +12,12 @@ pygmentsCodeFences = true
 
 DefaultContentLanguage = "es"
 
+enableRobotsTXT = true
+
 [languages]
   [languages.es]
     title = "Red MMT Costa Rica"
     languageName = "Spanish"
     weight = 1
+[params]
+  css = ["css/index.css", "https://fonts.googleapis.com/css2?family=Roboto&display=swap"]

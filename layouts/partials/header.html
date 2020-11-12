@@ -1,10 +1,11 @@
-<nav class="nav">
-    <div class="nav-container">
-        <a href="{{ "/" | relURL }}" style="display: flex; margin-bottom: 0;">
-            <img style="display: inline-block; margin-bottom: 0; margin-right: 0.5em" height="32"
-                src="/logo.png"></img>
-            <h2 class="nav-title">{{ .Site.Title }}</h2>
-        </a>
-        {{ partial "header-menu.html" . }}
-    </div>
-</nav>
+<header>
+    <nav class="nav">
+        <div class="nav-container">
+            <a href="{{ "/" | relURL }}" class="logo" style="display: flex; margin-bottom: 0;">
+                <img src="/logo.png" alt="Red MMT Costa Rica">
+                </img>
+            </a>
+            {{ partial "header-menu.html" . }}
+        </div>
+    </nav>
+</header>
