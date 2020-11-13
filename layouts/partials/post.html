@@ -1,0 +1,24 @@
+<div class="tile is-6">
+    <a href="{{ .Permalink }}" class="catalogue-item recent-item">
+        <div class="columns recent-item-content">
+            <div class="column is-one-third">
+                <img class="recent-item-image" src="/bg-img-a.png"></img>
+            </div>
+            <div class="column is-two-thirds">
+                <h2 class="item-title">{{ .Title }}</h2>
+
+                <p class="item-info">
+                    <span class="lighter">{{ i18n "writtenBy" }}</span>
+                    {{- if .Page.Params.Author }}
+                    {{ .Page.Params.Author }}
+                    {{- else }}
+                    {{ .Page.Site.Author.name }}
+                    {{- end }}
+                    <br>
+                    <span class="lighter"><time
+                            datetime="{{ .Page.PublishDate }}"></time>{{ i18n "publishdate" .Page }}</time></span>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>

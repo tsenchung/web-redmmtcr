@@ -9,7 +9,7 @@ summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
-
+mainSections = ["post"]
 DefaultContentLanguage = "es"
 
 enableRobotsTXT = true
@@ -20,4 +20,8 @@ enableRobotsTXT = true
     languageName = "Spanish"
     weight = 1
 [params]
-  css = ["css/index.css", "https://fonts.googleapis.com/css2?family=Roboto&display=swap"]
+  css = ["css/index.css"]
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"

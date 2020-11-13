@@ -1,67 +1,65 @@
-.logo {
-    height: 57px;
-    width: 235px;
-}
-
-.logo > img {
-    height: 100%;
-    width: 100%;
-}
-
-main {
-    padding-left: 94px;
-    padding-right: 94px;
-}
-
-.post-title {
-    font-size: 3.5rem;
-}
-
-.post-info {
-    opacity: 0.5;
-    color: #5F5F5F;
-    font-family: "Libre Baskerville", "Times New Roman", Times, serif;
-    letter-spacing: 0;
-    line-height: 20px;
-    text-align: center;
-    margin-bottom: 2rem;
+html {
+    font-size: 100%;
 }
 
 .post {
     padding: 0;
-    padding-left: 210px;
-    padding-right: 210px;
 }
 
-main, footer, .nav-container {
-    max-width: 1440px;
+.pagination {
+    display: block;
+}
+
+.post h1, .post h2 {
+    font-weight: 700;
+}
+
+.post h2 {
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.post ul {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    list-style: disc inside;
+    padding-left: 2.5rem;
+}
+
+.post p {
+    margin: 0 0 1rem;
 }
 
 main {
-    padding-top: 37px;
+    display: initial;
 }
 
-.featured-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    width: 100%;
+main.index h1, main.index h2 {
+    margin-bottom: 1rem;
 }
 
+.container {
+    width: auto;
+}
+
+.featured {
+    margin-bottom: 4rem;
+}
 .featured-item {
-    width: 620px;
     height: 437px;
 }
 
-.featured-item-title {
+.item-title {
     font-size: 1.5em;
     text-align: center;
     padding-top: 1rem;
     margin: 0;
+    font-weight: 700;
 }
 
 .featured-item-image {
-    width: 620px;
+    width: 100%;
     height: 338px;
     background-color: grey;
 }
@@ -105,11 +103,11 @@ main.index {
     font-family: 'Roboto', sans-serif;
 }
 
-main.index h1, h2, h3, h4, h5, h6 {
+main.index h1, main.index h2, main.index h3, main.index h4, main.index h5, main.index h6 {
     font-family: 'Roboto', sans-serif;
 }
 
-.featured-item-info {
+.item-info {
     text-align: center;
     font-family: "Libre Baskerville", "Times New Roman" , Times, serif;
     font-size: 0.9rem;
@@ -117,4 +115,111 @@ main.index h1, h2, h3, h4, h5, h6 {
 
 span.lighter {
     opacity: 0.5;
+}
+
+
+.post-title {
+    font-size: 3.5rem;
+}
+
+.post-info {
+    opacity: 0.5;
+    color: #5F5F5F;
+
+    letter-spacing: 0;
+    line-height: 20px;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.post {
+    max-width: 38rem;
+    margin: auto;
+    font-family: "Libre Baskerville", "Times New Roman", Times, serif;
+}
+
+.essentials {
+    background-color: #FAFCFF;
+}
+
+.essential-item-card h1 {
+    margin-bottom: 1rem;
+}
+
+.essential-item-card {
+    color: #353535;
+}
+
+.essential-icon {
+    font-size: 3rem;
+    width: 100%;
+    text-align: center;
+}
+
+.recent-item h2, .recent-item p {
+    text-align: left;
+}
+
+img {
+    object-fit: cover;
+}
+
+.recent-item-image {
+    width: 100%;
+    height: 100%;
+}
+
+footer {
+    padding: 0;
+    width: auto;
+    max-width: 100%;
+    color: white;
+    clear: both;
+    text-align: left;
+}
+
+footer span {
+    color: white;
+}
+
+footer .divider {
+    background-color: rgba(31,47,79,0.5);
+    height: 2.5rem;
+}
+
+footer .content {
+    background-color: rgba(31,47,79,0.8);
+}
+
+.recent-item {
+    color: #555;
+    display: block;
+    padding: 1rem 0;
+}
+
+.recent-item-content {
+    height: 14rem;
+}
+
+.padding {
+    padding: 1rem;
+}
+
+.recent h2 {
+    padding-top: 0px;
+}
+
+.section-title {
+    display: inline-block;
+    margin-top: 1rem;
+    margin-left: 1rem;
+    font-weight: 700;
+}
+
+.essentials-list.columns {
+    margin-bottom: 0;
+}
+
+.recent .section-title {
+    margin-bottom: -1rem;
 }
