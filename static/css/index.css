@@ -6,8 +6,9 @@ html {
     padding: 0;
 }
 
-.pagination {
+.pagination.custom {
     display: block;
+    margin: 1rem 0rem;
 }
 
 .post h1, .post h2 {
@@ -41,6 +42,7 @@ main.index h1, main.index h2 {
 
 .container {
     width: auto;
+    max-width: 100%;
 }
 
 .featured {
@@ -138,7 +140,7 @@ span.lighter {
     font-family: "Libre Baskerville", "Times New Roman", Times, serif;
 }
 
-.essentials {
+.essential {
     background-color: #FAFCFF;
 }
 
@@ -191,7 +193,7 @@ footer .content {
     background-color: rgba(31,47,79,0.8);
 }
 
-.recent-item {
+.recent-item a {
     color: #555;
     display: block;
     padding: 1rem 0;
@@ -216,10 +218,34 @@ footer .content {
     font-weight: 700;
 }
 
-.essentials-list.columns {
+.essential-list.columns {
     margin-bottom: 0;
 }
 
 .recent .section-title {
     margin-bottom: -1rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .recent-item-image {
+        display: none;
+    }
+    .recent h2, .recent p {
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 1215px) {
+    .recent-item.tile {
+        width: 100%;
+    }
+
+    .container {
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+
+    .nav ul {
+        right: 1rem;
+    }
 }

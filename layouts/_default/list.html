@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+<main>
+	<div class="catalogue">
+		{{ range (.Paginate .Pages).Pages }}
+		{{ .Render "summary" }}
+		{{ end }}
+	</div>
+
+	<div class="pagination custom">
+		{{ if .Paginator.HasPrev }}
+		<a href="{{ .Paginator.Prev.URL }}" class="left arrow"><span class="fas fa-arrow-left"></span></a>
+		{{ end }}
+		{{ if .Paginator.HasNext }}
+		<a href="{{ .Paginator.Next.URL }}" class="right arrow"><span class="fas fa-arrow-right"></span></a>
+		{{ end }}
+
+		<span>{{ .Paginator.PageNumber }}</span>
+	</div>
+</main>
+
+{{ end }}

@@ -11,15 +11,15 @@
 		{{ partial "single/footer.html" . }}
 	</div>
 
-	<div class="pagination">
+	<div class="pagination custom">
 		{{- if .PrevPage }}
-		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow">&#8592;</a>
+		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow"><span class="fas fa-arrow-left"></span></a>
 		{{- end }}
 		{{- if .NextPage }}
-		<a href="{{ .NextPage.RelPermalink }}" class="right arrow">&#8594;</a>
+		<a href="{{ .NextPage.RelPermalink }}" class="right arrow"><span class="fas fa-arrow-right"></span></a>
 		{{- end }}
 
-		<a href="#" class="top">Top</a>
+		<a href="#" class="top"><span class="fas fa-arrow-up"></span></a>
 	</div>
 </main>
 

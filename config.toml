@@ -3,7 +3,7 @@ title = "Red MMT Costa Rica"
 copyright = "Copyright &copy; 2020 - Red MMT Costa Rica"
 canonifyurls = true
 theme = "tale"
-paginate = 3
+paginate = 5
 
 summaryLength = 30
 enableEmoji = true

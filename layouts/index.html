@@ -4,25 +4,29 @@
     <div class="featured">
         <span class="section-title">Destacados</span>
         <div class="featured-list columns">
-            {{ range $index, $element := first 2 (where .Site.RegularPages "Params.series" "featured") }}
+            {{ range $index, $element := first 2 .Site.Taxonomies.series.featured }}
             {{ partial "featured.html" (dict "Page" . "index" $index) }}
             {{ end }}
         </div>
     </div>
 
-    <div class="essentials">
+    {{ if isset .Site.Taxonomies.series "essentials" }}
+
+    <div class="essential">
         <h3 class="section-title">Esenciales</h3>
         <div class="padding">
-            <div class="essentials-list columns">
-                {{ range $index, $element := first 4 (where .Site.RegularPages "Params.series" "essentials") }}
+            <div class="essential-list columns">
+                {{ range $index, $element := first 4 .Site.Taxonomies.series.essentials }}
                 {{ partial "essential.html" (dict "Page" . "index" $index) }}
                 {{ end }}
             </div>
         </div>
     </div>
+
+    {{ end }}
     <div class="recent">
         <span class="section-title">Recientes</span>
-        <div class="catalogue tile" style="flex-wrap: wrap">
+        <div class="tile" style="flex-wrap: wrap">
             {{ range first 4 (.Site.RegularPages) }}
             {{ partial "post.html" . }}
             {{ end }}
