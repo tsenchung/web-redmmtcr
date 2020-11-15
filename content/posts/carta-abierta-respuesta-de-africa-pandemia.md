@@ -7,7 +7,7 @@ image : ""
 draft: false
 ---
 
-[](/mes-africa.png)
+[](/mes-africa.jpg)
 
 Mientras África ha sorteado lo peor de los efectos en la salud pública de la pandemia del COVID19, el subsiguiente cierre económico ha puesto al descubierto las deficiencias y vulnerabilidades estructurales económicas de África. Como continente rico en recursos, África tiene la capacidad de proveer de una calidad de vida decente a todos sus habitantes. África es capaz de ofrecer servicios públicos universales como sanidad y educación, garantizar un empleo para la gente que quiera trabajar y asegurar un sistema complementario de garantía de rentas decente para aquellos que no puedan trabajar. Sin embargo, décadas de injerencias socioeconómicas coloniales y postcoloniales exacerbadas por la liberalización de mercados, han forzado a los países africanos a un círculo vicioso de deficiencias estructurales, entre las que se incluyen:
 - Carencia de soberanía alimentaria
