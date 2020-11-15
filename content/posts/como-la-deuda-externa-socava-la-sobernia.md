@@ -7,6 +7,8 @@ image : ""
 draft: false
 ---
 
+![](/como-la-deuda-externa-socava-la-soberania.png)
+
 [Publicado originalmente en la web de la Rosa Luxemburg Stiftung](https://www.rosalux.de/en/news/id/42302/how-foreign-debt-undermines-sovereignty)
 
 [Traducido por Red MMT España](http://www.redmmt.es/como-la-deuda-externa-socava-la-soberania/)
