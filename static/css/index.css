@@ -137,7 +137,6 @@ span.lighter {
     opacity: 0.5;
 }
 
-
 .post-title {
     font-size: 3.5rem;
 }
@@ -284,6 +283,10 @@ footer .content {
 
     .recent {
         padding-left: 1rem;
+    }
+
+    .post-title {
+        font-size: 3rem;
     }
 }
 
