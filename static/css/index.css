@@ -50,6 +50,7 @@ main.index h1, main.index h2 {
 .container {
     width: auto;
     max-width: 100%;
+    overflow-x: hidden;
 }
 
 nav {
