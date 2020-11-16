@@ -294,7 +294,12 @@ footer .content {
     .recent-item-content {
         height: auto;
     }
-
+    .pagination .left {
+        left: 1rem;
+    }
+    .pagination .right {
+        right: 1rem;
+    }
     footer > .content {
         padding-left: 1rem;
         padding-right: 1rem;
