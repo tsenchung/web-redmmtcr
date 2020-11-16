@@ -1,10 +1,10 @@
 {{ define "main" }}
 
 <main>
+	{{ if .Params.Banner }}
+	<img class="banner" src="/{{ .Params.Image }}">
+	{{ end }}
 	<div class="post">
-		{{ if .Params.Banner }}
-		<img class="banner" src="/{{ .Params.Image }}">
-		{{ end }}
 		{{ partial "single/title.html" . }}
 		{{ partial "single/post-info.html" . }}
 		{{ partial "single/header.html" . }}
