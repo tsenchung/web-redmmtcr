@@ -276,6 +276,10 @@ footer .content {
         padding-left: 1rem;
         padding-right: 1rem;
     }
+
+    .recent {
+        padding-left: 1rem;
+    }
 }
 
 @media only screen and (max-width: 1215px) {
@@ -287,6 +291,9 @@ footer .content {
         right: 1rem;
     }
 
+    .recent {
+        padding-right: 1rem;
+    }
     .recent-item a {
         width: 100%;
     }
