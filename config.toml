@@ -14,6 +14,8 @@ DefaultContentLanguage = "es"
 
 enableRobotsTXT = true
 
+[author]
+  name = "Red MMT Costa Rica"
 [languages]
   [languages.es]
     title = "Red MMT Costa Rica"
@@ -23,5 +25,5 @@ enableRobotsTXT = true
   css = ["css/index.css"]
 [taxonomies]
   category = "categories"
-  series = "series"
+  series = "placement"
   tag = "tags"

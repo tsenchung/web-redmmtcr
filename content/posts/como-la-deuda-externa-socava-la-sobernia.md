@@ -3,19 +3,16 @@ author: "Ndongo Samba Sylla"
 date: 2020-11-15
 linktitle: Cómo la deuda externa socava la soberanía
 title: Cómo la deuda externa socava la soberanía
-image : ""
+image : "images/content/como-la-deuda-externa-socava-la-soberania.png"
 draft: false
+placement: "regular"
 ---
 
 ![](/como-la-deuda-externa-socava-la-soberania.png)
 
-[Publicado originalmente en la web de la Rosa Luxemburg Stiftung](https://www.rosalux.de/en/news/id/42302/how-foreign-debt-undermines-sovereignty)
-
-[Traducido por Red MMT España](http://www.redmmt.es/como-la-deuda-externa-socava-la-soberania/)
-
 “No hay nada que una nación deba evitar tanto como pedir prestado dinero en el extranjero”. Así se lo confió Ulysses Grant al emperador Meiji durante su visita a Japón en agosto de 1879. Después de dar varios ejemplos de naciones esclavizadas por una deuda denominada en moneda extranjera, el decimoctavo presidente estadounidense (1869-1877) sugirió que su anfitrión se deshiciera de la deuda externa de su país lo antes posible, especialmente dado que no era muy grande. “Cuanto antes se devuelva, mejor será para Japón. Japón, si es posible, nunca debería pedir prestado más de una nación extranjera”. Este consejo no cayó en saco roto: los japoneses aprendieron una lección. No puede decirse lo mismo de muchos países africanos, aparte de Argelia, que es rica en hidrocarburos y cuya proporción de deuda externa / PIB es la más baja en el continente.
 
-# Manzanas y peras
+## Manzanas y peras
 
 En 2018, en la cumbre Japón-África, el gobierno japonés expresó públicamente su preocupación por el nivel de endeudamiento del continente, con una relación deuda pública / PIB de alrededor del 50 por ciento. Por fervor panafricanista, un reconocido economista africano expresó su enojo en las redes sociales y condenó la forma en que Japón se atrevió a dar lecciones sobre el tema a los gobiernos africanos, cuando su propia deuda pública supera con creces el 200 por ciento. Preguntó, ¿cómo podría el gobierno japonés tener el descaro de tomar esta actitud condescendiente con un nivel de deuda pública al menos cuatro veces mayor que el promedio africano?
 
@@ -31,7 +28,7 @@ Por otro lado, los países africanos dependen de una cierta cantidad de importac
 
 Con la pandemia del coronavirus, muchos países africanos que acumularon de manera irracional deudas denominadas en moneda extranjera durante la última década ahora están casi en bancarrota. La caída de los precios de sus productos de exportación, combinada con la depreciación de sus monedas, los ha puesto en una situación financiera que es aún más precaria dado que la actividad económica se ha desacelerado a nivel mundial. Deben pagar la deuda externa mientras sus ingresos por exportaciones caen abruptamente.
 
-# El ejemplo de Senegal
+## El ejemplo de Senegal
 
 Cuando se trata de la capacidad de obtener un superávit comercial de manera regular, se pueden distinguir dos tipos de países africanos. Primero están aquellos que son solventes en promedio; pueden honrar sus deudas externas gracias a los excedentes comerciales regulares, pero no son inmunes a las condiciones económicas adversas que podrían reducir sus tenencias de divisas. Este suele ser el caso de los países ricos en petróleo. En segundo lugar, hay quienes no pueden pagar la deuda externa con un superávit comercial y, por lo tanto, deben encontrar otros medios. Todos los países de África occidental que usan el franco CFA están en este campo, excepto Costa de Marfil.
 
@@ -43,7 +40,7 @@ En estas condiciones, si se trata de pagar su deuda externa y facilitar la repat
 
 En términos financieros, un esquema de Ponzi es un tipo de estafa que consiste en pagar los intereses a los inversores (en nuestro caso, el servicio de la deuda en curso) con dinero obtenido de nuevos inversores atraídos por la perspectiva de altas ganancias (en nuestro caso, la emisión de nueva deuda). Mirando en detalle, esta es la estrategia que Senegal ha empleado inocentemente desde 1960: contraer continuamente deudas denominadas en moneda extranjera que son atendidas mediante la contratación permanente de nuevas deudas denominadas en moneda extranjera. Esta estrategia financiera podría tener resultados más devastadores que en las últimas dos décadas en ausencia de remesas de la diáspora senegalesa (que ascendió a alrededor del 10 por ciento del PIB en 2019).
 
-# Lecciones
+## Lecciones
 
 Como caso de manual, Senegal tiene un triple interés. En primer lugar, es la prueba más elocuente de que una estrategia de desarrollo basada únicamente en la financiación extranjera es intrínsecamente contraproducente (a largo plazo, entre 1960 y 2015, el ingreso real per cápita en Senegal se ha estancado). Para ser claros, las finanzas internacionales son parte del problema. Solo puede desempeñar un papel positivo para los países que primero dependen de la movilización de sus recursos internos (un concepto que ciertamente no debería reducirse a un aumento en la relación impuestos / PIB) y que priorizan el financiamiento interno. Esto supone que los gobiernos tienen un control efectivo sobre sus sistemas de crédito, sobre quién obtiene crédito y a qué tasa, lo que nunca debe dejarse únicamente en manos del sector privado.
 
@@ -54,3 +51,8 @@ Con la pandemia de coronavirus, esta ausencia de soberanía monetaria tiene impl
 Muchos países africanos que tienen su propia moneda también están obligados a solicitar apoyo financiero externo. Pero su ventaja sobre Senegal es una que pocos aprovechan: no tienen restricciones financieras intrínsecas en sus propias monedas. En principio, pueden financiar cualquier proyecto que dependa de recursos locales bajo su control. Por ejemplo, si Guinea tuviera toda la experiencia y los materiales necesarios para construir una planta farmacéutica, no tendría ningún obstáculo para financiar eso con la moneda guineana. El banco central del país podría facilitar el proceso. Pero, por supuesto, pocos países africanos tienen una política decidida de movilizar recursos locales. Hacerlo requeriría una determinación política que ya no existía en el continente desde el asesinato de Thomas Sankara en 1987.
 
 Finalmente, el caso de Senegal nos permite ver que la deuda en moneda extranjera no es tanto la causa del subdesarrollo como su síntoma. Es el resultado de una especialización primaria dentro de la economía global con soberanía monetaria limitada o inexistente, un nivel irrazonable de apertura al comercio, el dominio de sectores clave por parte del capital extranjero y estructuras sociales desiguales que sostienen un modelo de acumulación en el que el crecimiento económico solo llega a una minoría de la población que depende principalmente de bienes importados para su consumo, etc. Mientras se mantenga esta estructura de dependencia, la cancelación de la deuda externa —suponiendo que fuera posible— no cambiará nada. Solo daría a los gobiernos un margen presupuestario ligeramente más amplio en el corto plazo y les evitaría tener que infligir más miseria a poblaciones ya debilitadas.
+
+
+[Publicado originalmente en la web de la Rosa Luxemburg Stiftung](https://www.rosalux.de/en/news/id/42302/how-foreign-debt-undermines-sovereignty)
+
+[Traducido por Red MMT España](http://www.redmmt.es/como-la-deuda-externa-socava-la-soberania/)

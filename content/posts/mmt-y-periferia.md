@@ -3,15 +3,14 @@ author: "Esteban Cruz Hidalgo, Agustín Mario, Stuart Medina Miltimore"
 date: 2020-11-15
 linktitle: "MMT y “periferia”: el estado es el dueño de la pelota"
 title: "MMT y “periferia”: el estado es el dueño de la pelota"
-image : ""
+image : "images/content/scoreboard.jpg"
 draft: false
+placement: "regular"
 ---
 
-[Artículo publicado originalmente en El País Digital el 19/9/2020](https://www.elpaisdigital.com.ar/contenido/mmt-y-periferia-el-estado-es-el-dueo-de-la-pelota/28317)
+En las últimas semanas han habido un número de evaluaciones críticas de la MMT (Teoría Monetaria Moderna) en este mismo medio \[El Pais Digital\][^1] [^2].
 
-En las últimas semanas han habido un número de evaluaciones críticas de la MMT (Teoría Monetaria Moderna) en este mismo medio (https://elpaisdigital.com.ar/contenido/teora-monetaria-moderna-y-periferia/27863 y https://elpaisdigital.com.ar/contenido/la-pelota-y-el-dinero/28035).
-
-Nos enfocamos aquí en las que consideramos las ideas clave de las críticas para el sistema monetario actual [^1]:
+Nos enfocamos aquí en las que consideramos las ideas clave de las críticas para el sistema monetario actual [^3]:
 
 1) aumentar el gasto para alcanzar el pleno empleo puede ser conflictivo/apresurado pues implica desconocer (o creer que no existe en un régimen de tipo de cambio -TC- flotante) la restricción externa -RE-, la cual impone limitaciones al gasto público en $ (ilusión ortodoxa 1)
 
@@ -87,7 +86,7 @@ La MMT es una teoría del dinero que es inseparable de una teoría del estado: e
 
 Acumular reservas no relaja, en modo alguno, el objetivo fiscal. En realidad, parece que los críticos siguen pensando en un marco de TC fijo en el que sí hacen falta dólares para gastar en pesos. De hecho, la cita de Keynes a menudo utilizada para defender las políticas mercantilistas se refiere a un régimen de TC fijo (del que los autores parecen no poder librarse) y es esencialmente correcta: como lo muestran los regímenes de TC fijo a lo largo de la historia, la actividad económica y el empleo doméstico quedan presos del resultado externo. La buena noticia es que no hay necesidad de auto-imponerse tal restricción.
 
-Para la economía en su conjunto, las importaciones son un beneficio real; las exportaciones, un costo real: las exportaciones son el costo (real) de las importaciones. De aquí que no tiene sentido acumular reservas como objetivo de política [^2]. Se trata, en realidad, de maximizar las importaciones netas, dado el deseo de ahorro neto de pesos por parte del resto del mundo. Si tanto preocupa la depreciación del peso a la que supuestamente conduciría un TC flotante, debe tenerse en cuenta que acumular reservas implica un TC por encima del de no intervención (como lo muestra la propia experiencia Argentina del período 2002-2008).
+Para la economía en su conjunto, las importaciones son un beneficio real; las exportaciones, un costo real: las exportaciones son el costo (real) de las importaciones. De aquí que no tiene sentido acumular reservas como objetivo de política [^4]. Se trata, en realidad, de maximizar las importaciones netas, dado el deseo de ahorro neto de pesos por parte del resto del mundo. Si tanto preocupa la depreciación del peso a la que supuestamente conduciría un TC flotante, debe tenerse en cuenta que acumular reservas implica un TC por encima del de no intervención (como lo muestra la propia experiencia Argentina del período 2002-2008).
 
 El estado no está obligado a que el sector privado desee ahorrar pesos en términos netos. Si el sector privado desea un ahorro neto positivo (superávit), lo racional es gastar lo suficiente para satisfacerlo (déficit); de lo contrario, habrá desempleo (y el sector privado sólo puede desear desahorrar en la medida en que haya ahorrado previamente ya que, de lo contrario, no podrá cumplir la obligación impositiva). A pesar de que los críticos consideran que “el peso dejó de funcionar como reserva de valor hace décadas”, el desempleo es evidencia de que el deseo de ahorro neto de pesos no ha sido satisfecho aún. Por más que suela actuar como si estuviera obligado a “correr detrás de la pelota”, es evidente que el estado es, en realidad, el dueño de la pelota (y quien lleva el marcador!).
 
@@ -103,7 +102,12 @@ Quizás la analogía futbolística explique la confusión de los críticos: en e
 
 1. Wray, L. R. (1998): Understanding Modern Money: The Key to Full Employment and Price Stability, Edward Elgar.
 
+[Artículo publicado originalmente en El País Digital el 19/9/2020](https://www.elpaisdigital.com.ar/contenido/mmt-y-periferia-el-estado-es-el-dueo-de-la-pelota/28317)
 
-[^1]: Según los críticos, la concepción del dinero de la MMT no permite comprender: i) las guerras para controlar rutas comerciales; ii) la avidez por metales preciosos; iii) las cesaciones de pago (crisis de endeudamiento) estatales; y, iv) las rebeliones contra los impuestos. Nada de eso es incomprensible y, mucho menos, una crítica a la MMT (al respecto, ver, por ejemplo, el capítulo 3 de Wray, 1998).
 
-[^2]: Acumular dólares no sirve a la utilidad pública. La crisis del COVID-19 muestra que esto ni siquiera tiene sentido “estratégico”: por más reservas que se hayan acumulado, estas pueden ser inútiles para comprar, por ejemplo, insumos médicos producidos en otros países (lo cual también muestra que sí podría tener sentido acumular reservas estratégicas de ciertas mercancías).
+ [^1]: [Teoría monetaria moderna y periferia](https://elpaisdigital.com.ar/contenido/teora-monetaria-moderna-y-periferia/27863)
+ [^2]: [La pelota y el dinero](https://elpaisdigital.com.ar/contenido/la-pelota-y-el-dinero/28035)
+
+[^3]: Según los críticos, la concepción del dinero de la MMT no permite comprender: i) las guerras para controlar rutas comerciales; ii) la avidez por metales preciosos; iii) las cesaciones de pago (crisis de endeudamiento) estatales; y, iv) las rebeliones contra los impuestos. Nada de eso es incomprensible y, mucho menos, una crítica a la MMT (al respecto, ver, por ejemplo, el capítulo 3 de Wray, 1998).
+
+[^4]: Acumular dólares no sirve a la utilidad pública. La crisis del COVID-19 muestra que esto ni siquiera tiene sentido “estratégico”: por más reservas que se hayan acumulado, estas pueden ser inútiles para comprar, por ejemplo, insumos médicos producidos en otros países (lo cual también muestra que sí podría tener sentido acumular reservas estratégicas de ciertas mercancías).

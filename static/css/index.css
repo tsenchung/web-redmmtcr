@@ -28,8 +28,15 @@ html {
     padding-left: 2.5rem;
 }
 
+.post ol {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    padding-left: 2.5rem;
+}
+
 .post p {
     margin: 0 0 1rem;
+    text-align: left;
 }
 
 main {
@@ -45,8 +52,17 @@ main.index h1, main.index h2 {
     max-width: 100%;
 }
 
+nav {
+    margin-top: 1rem;
+}
+
 .featured {
-    margin-bottom: 4rem;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+.recent {
+    margin-bottom: 3rem;
 }
 .featured-item {
     height: 437px;
@@ -68,15 +84,16 @@ main.index h1, main.index h2 {
 
 .featured-item-card {
     position: relative;
-    width: 412px;
+    width: 90%;
     margin: auto;
-    height: 195px;
+    min-height: 195px;
     top: -120px;
-    background-color: clear;
+    background-color: #fff;
     padding: 0;
     overflow: hidden;
     color: #353535;
-
+    padding-left: 1rem;
+    padding-right: 1rem;
     box-sizing: border-box;
     border-radius: 4px;
 }
@@ -180,6 +197,15 @@ footer {
     text-align: left;
 }
 
+footer .content h6 {
+    color: white;
+}
+
+footer a:hover span {
+    color: #A6D290;
+}
+
+
 footer span {
     color: white;
 }
@@ -233,6 +259,18 @@ footer .content {
     .recent h2, .recent p {
         text-align: center;
     }
+
+    .featured-item {
+        margin-top: 1.5rem;
+    }
+
+    .other-sites {
+        margin-top: 2rem;
+    }
+
+    .copyright {
+        margin-top: 1rem;
+    }
 }
 
 @media only screen and (max-width: 1215px) {
@@ -240,12 +278,35 @@ footer .content {
         width: 100%;
     }
 
-    .container {
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-
     .nav ul {
         right: 1rem;
     }
+
+    .recent-item a {
+        width: 100%;
+    }
+
+    .recent-item-content {
+        height: auto;
+    }
+}
+
+.post img.banner {
+    max-height: 15rem;
+    width: 100%;
+    height: auto;
+    margin-top: 2rem;
+}
+
+.post-info {
+    opacity: 1.0;
+}
+
+.content .footer-link:not(:last-child) {
+    margin-bottom: 0.5rem;
+}
+
+footer > .content {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
 }
