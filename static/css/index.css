@@ -343,3 +343,7 @@ footer > .content {
     padding-top: 2rem;
     padding-bottom: 1rem;
 }
+
+.other-sites {
+    justify-content: flex-end;   
+}
