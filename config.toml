@@ -3,17 +3,27 @@ title = "Red MMT Costa Rica"
 copyright = "Copyright &copy; 2020 - Red MMT Costa Rica"
 canonifyurls = true
 theme = "tale"
-paginate = 3
+paginate = 5
 
 summaryLength = 30
 enableEmoji = true
 pygmentsCodeFences = true
 
-
+mainSections = ["post"]
 DefaultContentLanguage = "es"
 
+enableRobotsTXT = true
+
+[author]
+  name = "Red MMT Costa Rica"
 [languages]
   [languages.es]
     title = "Red MMT Costa Rica"
     languageName = "Spanish"
     weight = 1
+[params]
+  css = ["css/index.css"]
+[taxonomies]
+  category = "categories"
+  series = "placement"
+  tag = "tags"

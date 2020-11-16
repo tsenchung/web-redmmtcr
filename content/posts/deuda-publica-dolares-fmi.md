@@ -3,8 +3,10 @@ author: "Mauricio Chaves, Tsen Chung, Mauricio Gutierrez, Mauricio Morua"
 date: 2020-10-21
 linktitle: Deuda Publica y Dolares del FMI
 title: La deuda pública y los dólares del FMI
-image : ""
+image : "images/content/dollar.jpg"
 draft: false
+placement: "featured"
+tags: ["FMI"]
 ---
 
 La mayoría de los artículos de opinión sobre la economía del país son difíciles de entender para la población no especializada.  Ante la difícil situación económica que atraviesa Costa Rica, consideramos imprescindible que la ciudadanía tenga una comprensión más profunda de ciertos conceptos fundamentales y así poder tener una discusión informada de las alternativas.  El presente artículo pretende brindar una explicación concisa de algunos de estos conceptos, sobre todo relacionados a la deuda pública.

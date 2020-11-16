@@ -1,0 +1,31 @@
+{{ define "main" }}
+<main class="index">
+    {{ partial "index/introduction.html" . }}
+    <section class="featured">
+        <div class="featured-list columns">
+            {{ range $index, $element := first 2 .Site.Taxonomies.placement.featured }}
+            {{ partial "featured.html" (dict "Page" . "index" $index) }}
+            {{ end }}
+        </div>
+    </section>
+
+    {{ if isset .Site.Taxonomies.placement "essential" }}
+    <section class="essential">
+        <div class="padding">
+            <div class="essential-list columns">
+                {{ range $index, $element := first 4 .Site.Taxonomies.placement.essential }}
+                {{ partial "essential.html" (dict "Page" . "index" $index) }}
+                {{ end }}
+            </div>
+        </div>
+    </section>
+    {{ end }}
+    <section class="recent">
+        <div class="tile" style="flex-wrap: wrap">
+            {{ range first 12 (.Site.Taxonomies.placement.regular) }}
+            {{ partial "recent.html" . }}
+            {{ end }}
+        </div>
+    </section>
+</main>
+{{ end }}

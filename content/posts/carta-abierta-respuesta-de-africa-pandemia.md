@@ -3,11 +3,11 @@ author: "Fadhel Kaboub, Ndongo Samba Sylla, Kai Koddenbrock, Ines Mahmoud, Maha 
 date: 2020-11-15
 linktitle: "Carta abierta: La respuesta de África a la pandemia exige reivindicar la soberanía económica y monetaria"
 title: "Carta abierta: La respuesta de África a la pandemia exige reivindicar la soberanía económica y monetaria"
-image : ""
+image : "images/content/mes-africa.jpg"
+banner: "images/content/mes-africa.jpg"
 draft: false
+placement: "regular"
 ---
-
-![](/mes-africa.jpg)
 
 Mientras África ha sorteado lo peor de los efectos en la salud pública de la pandemia del COVID19, el subsiguiente cierre económico ha puesto al descubierto las deficiencias y vulnerabilidades estructurales económicas de África. Como continente rico en recursos, África tiene la capacidad de proveer de una calidad de vida decente a todos sus habitantes. África es capaz de ofrecer servicios públicos universales como sanidad y educación, garantizar un empleo para la gente que quiera trabajar y asegurar un sistema complementario de garantía de rentas decente para aquellos que no puedan trabajar. Sin embargo, décadas de injerencias socioeconómicas coloniales y postcoloniales exacerbadas por la liberalización de mercados, han forzado a los países africanos a un círculo vicioso de deficiencias estructurales, entre las que se incluyen:
 - Carencia de soberanía alimentaria
@@ -37,7 +37,7 @@ También, hacemos un llamamiento a los socios comerciales de África para que re
 Los estados africanos deben desarrollar un proyecto claro e independiente a largo plazo para fortalecer su resistencia ante los choques externos. La soberanía económica y monetaria, no requieren de aislamiento, pero si requieren un compromiso con las prioridades sociales, ecológicas y económicas, lo cual significa movilizar los recursos domésticos y regionales para mejorar la calidad de la vida en el continente. Esto significa ser más selectivo en cuanto a la inversión extranjera directa, la orientación a la exportación y las industrias extractivas. Esto implica también priorizar el eco-turismo, la herencia cultural y las industrias nativas.
 
 Movilizar los recursos de África empieza con el compromiso por políticas de pleno empleo (un programa de Trabajo Garantizado), con las infraestructuras de salud pública, con la educación pública, con una agricultura sostenible, con las energías renovables, con la administración sustentable de los recursos naturales, y con una inflexible dedicación a empoderar a las mujeres y a la juventud mediante una democracia participante, transparente y fiscalizable.  Es momento en África para seguir adelante y aspirar a un futuro mejor en el cual todas sus gentes puedan progresar y realizar su completo potencial. Este futuro está al alcance, y comienza con África reclamando su soberanía económica y monetaria.
- 
+
 
 Firman[^1]:
 
@@ -46,5 +46,7 @@ Firman[^1]:
 * Kai Koddenbrock, Goethe University, Frankfurt, Germany
 * Ines Mahmoud, RLS North Africa, Tunis, Tunisia
 * Maha Ben Gadha, RLS North Africa, Tunis, Tunisia
+
+[Publicado originalmente en MES Africa](https://mes-africa.org/)
 
 [^1]:Las firmas representan las opiniones personales de los autores y no las de sus empleadores o de otras afiliaciones institucionales.
