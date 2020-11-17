@@ -134,7 +134,8 @@ main.index h1, main.index h2, main.index h3, main.index h4, main.index h5, main.
 }
 
 span.lighter {
-    opacity: 0.5;
+    color: #595959;
+    opacity: 1.0;
 }
 
 .post-title {
@@ -227,6 +228,10 @@ footer .content {
     color: #555;
     display: block;
     padding: 1rem 0;
+}
+
+a {
+    color: #185B95;
 }
 
 .recent-item-content {
@@ -345,5 +350,5 @@ footer > .content {
 }
 
 .other-sites {
-    justify-content: flex-end;   
+    justify-content: flex-end;
 }

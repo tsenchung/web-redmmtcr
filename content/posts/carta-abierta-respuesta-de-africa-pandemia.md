@@ -3,8 +3,8 @@ author: "Fadhel Kaboub, Ndongo Samba Sylla, Kai Koddenbrock, Ines Mahmoud, Maha 
 date: 2020-11-15
 linktitle: "Carta abierta: La respuesta de África a la pandemia exige reivindicar la soberanía económica y monetaria"
 title: "Carta abierta: La respuesta de África a la pandemia exige reivindicar la soberanía económica y monetaria"
-image : "images/content/mes-africa.jpg"
-banner: "images/content/mes-africa.jpg"
+image: "images/content/mes-africa.webp"
+thumbnail: "images/content/mes-africa-thumb.webp"
 draft: false
 placement: "regular"
 ---

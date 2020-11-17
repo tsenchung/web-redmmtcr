@@ -1,8 +1,8 @@
 {{ define "main" }}
 
 <main>
-	{{ if .Params.Banner }}
-	<img class="banner" src="/{{ .Params.Image }}">
+	{{ if .Params.Image }}
+	<img class="banner" src="/{{ .Params.Image }}" aria-hidden="true">
 	{{ end }}
 	<div class="post">
 		{{ partial "single/title.html" . }}

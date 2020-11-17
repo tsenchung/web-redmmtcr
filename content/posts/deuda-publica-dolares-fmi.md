@@ -3,7 +3,7 @@ author: "Mauricio Chaves, Tsen Chung, Mauricio Gutierrez, Mauricio Morua"
 date: 2020-10-21
 linktitle: Deuda Publica y Dolares del FMI
 title: La deuda pública y los dólares del FMI
-image : "images/content/dollar.jpg"
+thumbnail: "images/content/dollar-thumb.webp"
 draft: false
 placement: "featured"
 tags: ["FMI"]

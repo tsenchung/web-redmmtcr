@@ -1,6 +1,6 @@
 <div class="featured-item column is-half">
     <a href="{{ .Page.Permalink }}">
-        <img class="featured-item-image" src="{{ .Page.Params.Image}}"></img>
+        <img class="featured-item-image" src="{{ .Page.Params.Thumbnail}}" aria-hidden="true"></img>
         <div class=" featured-item-card {{ cond (eq .index 0) "green-border" "grey-border" }}">
             <h1 class="item-title">{{ .Page.Title }}</h1>
             <p class="item-info">

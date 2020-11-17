@@ -2,7 +2,7 @@
     <a href="{{ .Permalink }}">
         <div class="columns recent-item-content">
             <div class="column is-one-third">
-                <img class="recent-item-image" src="{{ .Page.Params.Image}}"></img>
+                <img class="recent-item-image" src="{{ .Page.Params.Thumbnail}}" aria-hidden="true"></img>
             </div>
             <div class="column is-two-thirds">
                 <h2 class="item-title">{{ .Title }}</h2>

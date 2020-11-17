@@ -3,7 +3,7 @@ author: "Esteban Cruz Hidalgo, Agustín Mario, Stuart Medina Miltimore"
 date: 2020-11-15
 linktitle: "MMT y “periferia”: el estado es el dueño de la pelota"
 title: "MMT y “periferia”: el estado es el dueño de la pelota"
-image : "images/content/scoreboard.jpg"
+thumbnail: "images/content/scoreboard-thumb.webp"
 draft: false
 placement: "regular"
 ---
