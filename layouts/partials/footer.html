@@ -1,0 +1,45 @@
+<footer>
+    <div class="content">
+        <div class="container">
+            <a href="/"><img src="/logo-w.png" alt="Red MMT Costa Rica"></img></a>
+
+            <div class="tile is-12">
+                <div class="tile is-6">
+                    <div class="tile is-8 is-child">
+                        <p>
+                            <span>
+                                Este sitio no es un medio que se actualiza con periodicidad. Algunos textos o imágenes
+                                incluidas
+                                en el sitio son tomadas de internet y por lo tanto se considera que están en el dominio
+                                público.
+                                Si hay una publicación que viole un derecho de autor, favor notificar por correo a
+                                <a href="mailto:mmtcostarica@gmail.com"><span><b>mmtcostarica@gmail.com</b></span></a>
+                                para que la eliminemos inmediatamente.
+                                Los
+                                autores no son
+                                responsables
+                                del contenido de los sitios web vinculados.
+                            </span>
+                        </p>
+                    </div>
+                </div>
+                <div class="tile is-6 other-sites">
+                    <div class="tile is-4 is-child">
+                        <div>
+                            <h6>Sitios de Interés</h6>
+                            <p class="footer-link"><a href="http://www.redmmt.es/"><span>Red MMT España</span></a></p>
+                            <p class="footer-link"><a href="https://pileusmmt.libsyn.com/"><span>The MMT Podcast with
+                                        Patricia Pino &amp; Christian
+                                        Reilly</span></a></p>
+                            <p class="footer-link"><a
+                                    href="https://realprogressives.org/macro-n-cheese-podcast/"><span>Macro and
+                                        Cheese</span></a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <span class="copyright">&copy; <time datetime="{{ now }}">{{ now.Format "2006" }}</time>
+                {{ .Site.Author.name }}.</span>
+        </div>
+    </div>
+</footer>

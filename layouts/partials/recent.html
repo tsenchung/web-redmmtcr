@@ -1,0 +1,23 @@
+<div class="tile is-6 recent-item is-child">
+    <a href="{{ .Permalink }}">
+        <div class="columns recent-item-content">
+            <div class="column is-one-third">
+                <img class="recent-item-image" src="{{ .Page.Params.Thumbnail}}" aria-hidden="true"></img>
+            </div>
+            <div class="column is-two-thirds">
+                <h2 class="item-title">{{ .Title }}</h2>
+
+                <p class="item-info">
+                    {{- if .Page.Params.Author }}
+                    {{ .Page.Params.Author }}
+                    {{- else }}
+                    {{ .Page.Site.Author.name }}
+                    {{- end }}
+                    <br>
+                    <span class="lighter"><time
+                            datetime="{{ .Page.PublishDate }}"></time>{{ i18n "publishdate" .Page }}</time></span>
+                </p>
+            </div>
+        </div>
+    </a>
+</div>

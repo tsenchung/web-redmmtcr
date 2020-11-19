@@ -1,0 +1,29 @@
+{{ define "main" }}
+
+<main>
+	{{ if .Params.Image }}
+	<img class="banner" src="/{{ .Params.Image }}" aria-hidden="true">
+	{{ end }}
+	<div class="post">
+		{{ partial "single/title.html" . }}
+		{{ partial "single/post-info.html" . }}
+		{{ partial "single/header.html" . }}
+
+		{{ .Content }}
+
+		{{ partial "single/footer.html" . }}
+	</div>
+
+	<div class="pagination custom">
+		{{- if .PrevPage }}
+		<a href="{{ .PrevPage.RelPermalink }}" class="left arrow"><span class="fas fa-arrow-left"></span></a>
+		{{- end }}
+		{{- if .NextPage }}
+		<a href="{{ .NextPage.RelPermalink }}" class="right arrow"><span class="fas fa-arrow-right"></span></a>
+		{{- end }}
+
+		<a href="#" class="top"><span class="fas fa-arrow-up"></span></a>
+	</div>
+</main>
+
+{{ end }}
