@@ -34,7 +34,7 @@ Ahora bien, si el gobierno puede crear dinero, ¿para qué cobra impuestos?
 
 ## Crear demanda para la moneda
 La primera función de los impuestos y, posiblemente, la más importante de todas, es la de crear demanda para la moneda nacional. 
-Por un lado, el gobierno crea la moneda, pero para que el país entero utilice esta moneda como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda. 
+Por un lado, el gobierno crea la moneda, pero para que el país utilice esta moneda como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda. 
 De esta manera, las personas trabajan no solamente para ganarse la vida, sino para conseguir el dinero suficiente para pagar al gobierno los impuestos que le corresponden y así evitar una multa o una pena de otro tipo.
 Si el gobierno no es capaz de cobrar adecuadamente los impuestos, las personas pierden su confianza en este y podrían, eventualmente, realizar intercambios en otras monedas que posean una demanda efectiva.
 Es por ello que, históricamente, las potencias colonizadoras recurrieron siempre a los impuestos como una forma de mantener el control sobre los territorios colonizados y sus recursos, pues de esta forma creaban una demanda de trabajo por esa unidad de medida, la cual debían primero poner en manos de los trabajadores (ya fuera tierra para cultivar, minas para extraer metales, etc.) y luego extraer de estos en forma de tributos. 
