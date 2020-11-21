@@ -1,5 +1,5 @@
 <head>
-	{{ if eq ($.Site.Params.baseurl) "https://redmmt.cr/" }}
+	{{ if eq hugo.Environment "production" }}
 	<script async src="https://www.googletagmanager.com/gtag/js?id=G-JCCW9508M0"></script>
 	<script>
 		window.dataLayer = window.dataLayer || [];
