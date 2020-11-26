@@ -57,7 +57,7 @@ El grado de éxito de un impuesto diseñado para reducir la desigualdad se medir
 Por tanto, ligar esta recaudación a programas sociales implicaría limitar sus presupuestos en el futuro. 
 
 Además, esto le otorgaría más poder a las clases privilegiadas para negociar beneficios por parte del estado amparadas en su importancia para los ingresos públicos. 
-De esta forma, estas clases continúan acumulando dinero y ampliando la desigualdad en el país, tal como ha venido ocurriendo durante las últimas dos décadas.
+De esta forma, estas clases continúan acumulando poder y ampliando la desigualdad en el país, tal como ha venido ocurriendo durante las últimas dos décadas.
 
 ## Controlar la inflación
 
