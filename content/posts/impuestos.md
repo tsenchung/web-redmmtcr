@@ -87,7 +87,7 @@ Las cuatro razones arriba mencionadas son suficientes para comprender la importa
 
 Tal perspectiva, hasta ahora dominante, resulta en muchos sentidos contraproducente, ya que justifica la acumulación de riqueza en pocas manos para así cobrarles impuestos y financiar el gasto público. 
 
-Esto también les da más influencia en el discurso público y, por último, permite que la "ineficiencia" del gasto público sea utilizada por algunos como justificación para no pagar impuestos, o bien para impulsar agendas políticas basadas en dicho razonamiento equivocado. 
+Esto también les da más influencia sobre el discurso público y, por último, permite que la "ineficiencia" del gasto público sea utilizada por algunos como justificación para no pagar impuestos, o bien para impulsar agendas políticas basadas en dicho razonamiento equivocado. 
 
 Evidentemente, la ineficiencia del gasto público es un problema real que debe ser solucionado, pero esto no implica que no se puedan y se deban tomar acciones para eliminar los altos niveles de pobreza y desigualdad.
 
