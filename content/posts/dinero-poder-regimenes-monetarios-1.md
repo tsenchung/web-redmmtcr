@@ -61,7 +61,7 @@ En la antigua Grecia, como en el antiguo Egipto, la aparición del dinero estuvo
 
 En resumen, el poder, los impuestos y los tributos religiosos juegan un papel crucial en todos los relatos sobre los orígenes del dinero. Los impuestos son el motor de la transferencia de recursos reales de los sujetos a la autoridad. El dinero es el vehículo. La transferencia de recursos fue en parte para proveer a la propia autoridad, y en parte para permitir a la autoridad redistribuir el excedente a sus súbditos de manera más “equitativa “ dentro del contexto de las costumbres sociales culturales y religiosas de la época. En cierto sentido, el dinero es una creación del Estado, un bien público y un mecanismo redistributivo empleado por ese Estado para bien o para mal.
 
-[Publicado originalmente en Marzo de 2016 por el Levy Economics Institute of Bard College](http://www.levyinstitute.org/publications/money-power-and-monetary-regimes), y traducido por [Red MMT España](http://www.redmmt.es/dinero-poder-y-regimenes-monetarios-parte-1-3/)
+[Publicado originalmente en Marzo de 2016 por el Levy Economics Institute of Bard College](http://www.levyinstitute.org/publications/money-power-and-monetary-regimes)
 
 [^1]: El uso del término “dinero” en sí mismo ha sido problemático, ya que significa diferentes cosas para varias personas. Algunos economistas lo usan para referirse a la liquidez, otros lo tratan estrictamente como un objeto, mientras que otros enfatizan su naturaleza abstracta como una unidad de medida. Este documento tiene como objetivo aclarar esta confusión.
 [^2]: Ver trabajo sobre la ineficiencia del señoreaje (Freeman 1993).
