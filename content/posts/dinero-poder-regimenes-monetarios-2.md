@@ -3,7 +3,7 @@ author: "Pavlina R. Tcherneva"
 date: 2020-11-28
 linktitle: "Dinero, poder y regímenes monetarios - Parte 2"
 title: "Dinero, poder y regímenes monetarios - Parte 2"
-thumbnail: "images/content/mes-africa-thumb.webp"
+thumbnail: "images/content/institution.webp"
 draft: false
 placement: "regular"
 ---
