@@ -78,6 +78,7 @@ El surgimiento del dinero no solo no puede separarse de los poderes del Estado, 
 Una comprensión apropiada de los orígenes, el papel y las funciones del dinero es esencial para realizar una evaluación adecuada de los problemas económicos contemporáneos y del espacio de políticas disponible para abordarlos. Lo que lleva a reflexionar sobre las formas en las que podrían emplearse los poderes monopolísticos del Estado para diseñar políticas públicas dirigidas a alcanzar una amplia gama de objetivos políticos, incluyendo el pleno empleo y la estabilidad de precios.
 
 Traducido por Sandra Soutto
+
 Revisión de David Hervás y Martha Tepepa
 
 ## Referencias
