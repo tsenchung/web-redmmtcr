@@ -1,5 +1,5 @@
 ---
-author: "Red MMT España"
+author: "Beardsley Ruml"
 date: 2020-11-28
 linktitle: "Recaudar impuestos como fuente de ingresos está obsoleto"
 title: "Recaudar impuestos como fuente de ingresos está obsoleto"
@@ -123,4 +123,4 @@ Aceptado que el impuesto sobre sociedades debe desaparecer, no será fácil idea
 
 ¿Puede el gobierno permitirse renunciar al impuesto sobre sociedades? En realidad esta no es la pregunta. La pregunta es: ¿Es ésta una forma favorable de determinar los impuestos  —sobre el consumidor, los trabajadores y los inversores—, quienes a la postre son los únicos contribuyentes reales? Esta claro desde cualquier punto de vista que los efectos del impuesto sobre sociedades son perjudiciales. No se atiende pues correctamente al interés público que debe servir la tributación. El impuesto tiene un efecto incierto en cuanto a la estabilización  del dólar y no es equitativo como parte de una exacción progresiva sobre la renta individual. Tiende a aumentar los precios de los bienes y servicios. Tiende a mantener los salarios más bajos de lo de otro modo serían. Reduce el rendimiento de la inversión y obstruye el flujo de ahorros hacia las empresas.
 
-*Este artículo fue publicado originalmente en la edición de Enero de 1946 de la revista American Affairs, y [traducido por Red MMT España.](http://www.redmmt.es/recaudar-impuestos-como-fuente-de-ingresos-esta-obsoleto/)*
+*Este artículo escrito por Beardsley Ruml fue publicado originalmente en la edición de Enero de 1946 de la revista American Affairs, y [traducido por Red MMT España.](http://www.redmmt.es/recaudar-impuestos-como-fuente-de-ingresos-esta-obsoleto/)*
