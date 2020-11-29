@@ -34,7 +34,7 @@ Dichos grados pueden ser clasificados de mayor a menor espacio político:
 6. *uniones monetarias*.
 
 ### Figura 2. Regímenes monetarios y espacio político
-[Figura 2. Regímenes monetarios y espacio político](/images/content/espacio-politico.webp)
+![Figura 2. Regímenes monetarios y espacio político](/images/content/espacio-politico.webp)
 
 
 En tanto una nación se comprometa a la convertibilidad el impulso de su economía dependerá (en mayor o menor grado) de la adquisición de la moneda de otra nación (reservas extranjeras). El objetivo de mantener un tipo de cambio estable con la moneda extranjera a menudo entra en conflicto con otros objetivos políticos, impidiendo los esfuerzos para hacer frente a recesiones o crisis bancarias. Por este motivo, los regímenes de tipo de cambio fijo a menudo se abandonan en medio de crisis económicas y financieras graves, lo que libera espacio político adicional para llevar a cabo una política monetaria o fiscal de estabilización macroeconómica independiente.
