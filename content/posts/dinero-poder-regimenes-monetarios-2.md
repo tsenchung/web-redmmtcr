@@ -94,7 +94,7 @@ Hasta ahora, se ha prestado atención a las obligaciones emitidas por el Estado 
 
 El enfoque cartalista subraya que la multitud de pasivos del sector privado puede clasificarse de forma jerárquica, por lo que las deudas más aceptables y liquidas se sitúan en la cima de la pirámide monetaria (Bell 2001).
 
-[Figura 1. La jerarquía del dinero: Pasivos del gobierno. Pasivos bancarios. Pasivos privados](/images/content/jerarquia-del-dinero.webp)
+![Figura 1. La jerarquía del dinero: Pasivos del gobierno. Pasivos bancarios. Pasivos privados](/images/content/jerarquia-del-dinero.webp)
 
 La característica más importante de esta pirámide es que *cada* unidad económica, excepto el gobierno, tiene que entregar el pagaré de un tercero  (ubicado en algún lugar más elevado de la pirámide) para saldar sus obligaciones de deuda. Las empresas y los hogares liquidan sus deudas entregando cheques (pasivos bancarios) o billetes y monedas (pasivos del banco central o del Tesoro). Los bancos liquidan las deudas entre sí entregando reservas (pasivos del banco central). El gobierno es la *única* unidad económica que liquida sus propias deudas emitiendo más de sus *propios* pasivos. El Estado emite varios tipos de pasivos: algunos son emitidos por su entidad monetaria (billetes y reservas)[^7] y otros son emitidos por su entidad fiscal (monedas, cheques del Tesoro o valores del Tesoros). La emisión de cada uno de estos pasivos es el poder de monopolio soberano y exclusivo del Estado. El pago de un pasivo (por ejemplo, cheque del Tesoro o valores del Tesoro) tiene lugar cuando el Estado entrega otro de sus pasivos (reservas).
  
