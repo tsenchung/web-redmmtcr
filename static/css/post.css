@@ -6,7 +6,7 @@
     font-family: "Libre Baskerville", "Times New Roman", Times, serif;
 }
 
-.post h1, .post h2 {
+.post h1, .post h2, .post h3 {
     font-weight: 700;
 }
 
@@ -14,6 +14,16 @@
     font-size: 1.5rem;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
+}
+
+.post h3 {
+    font-size: 1.25rem;
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.post blockquote {
+    color: #595959;
 }
 
 img.banner {
