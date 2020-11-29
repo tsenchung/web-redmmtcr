@@ -3,7 +3,6 @@ author: "Beardsley Ruml"
 date: 2020-11-28
 linktitle: "Recaudar impuestos como fuente de ingresos está obsoleto"
 title: "Recaudar impuestos como fuente de ingresos está obsoleto"
-image: "images/content/ruml.webp"
 thumbnail: "images/content/ruml-thumb.webp"
 draft: false
 placement: "regular"
