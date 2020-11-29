@@ -8,6 +8,11 @@ draft: false
 placement: "regular"
 ---
 
+> Nota al lector de parte de Red MMT Costa Rica
+> 
+> Este artículo fue escrito en el contexto legal de Estados Unidos en 1946. Sin embargo, la relación entre política fiscal, inflación y desempleo se puede aplicar a países como Costa Rica que poseen un Banco Central (el Banco Central de Costa Rica), emiten su propia moneda (el colón) y no prometen convertir su moneda en un bien con un precio fijo como se hacía en los tiempos del ya abandonado patrón oro.
+
+
 *El Sr. Ruml, a la sazón presidente del Banco de la Reserval Federal de Nueva York, leyó este trabajo ante el colegio americano de abogados durante el último año de la Segunda Guerra Mundial. Se le prestó menos atención de la que merecía pero contiene enseñanzas fundamentales sobre los fines de la tributación.*
 
 La primacía del gobierno sobre el negocio privado se ve claramente en su poder para imponer un impuesto sobre el beneficio empresarial. Muchas de las normas que otorgan poder a las empresas provienen del gobierno, y es el gobierno el que pone los límites al ejercicio de ese poder protegiendo la libertad de las operaciones comerciales en este ámbito de autoridad.
