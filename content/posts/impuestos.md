@@ -1,9 +1,10 @@
 ---
-author: "Mauricio Chaves, Tsen Chung, Mauricio Gutierrez, Mauricio Morua"
-date: 2020-11-02
-linktitle: Impuestos - TBD?
-title: Impuestos - TBD?
-image : ""
+author: "Mauricio Chaves, Tsen Chung, Mauricio Gutiérrez, Mauricio Morúa"
+date: 2020-12-13
+linktitle: Re-entendiendo los impuestos
+title: Re-entendiendo los impuestos
+thumbnail: "images/content/impuestos.webp"
+placement: "featured"
 draft: false
 ---
 
