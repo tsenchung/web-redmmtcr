@@ -9,7 +9,7 @@ draft: false
 ---
 
 
-Los impuestos son uno de los temas más polémicos e impopulares a la hora de discutir política pública y, en específico, política fiscal.
+Los impuestos son uno de los temas más polémicos e impopulares a la hora de discutir política pública y política fiscal.
 En el contexto actual, muchos especialistas y líderes de opinión coinciden en la necesidad de complementar la estrategia económica con una revisión profunda de la estructura tributaria del país.
 
 El déficit fiscal, compuesto en buena medida por elusión y evasión fiscal (entre 6% y 8% del PIB, según diferentes estimaciones), se ha convertido en una preocupación económica de primer orden ante la necesidad de intervención del gobierno para mitigar los efectos de la crisis.
@@ -35,28 +35,28 @@ Ahora bien, si el gobierno puede crear dinero, ¿para qué cobra impuestos?
 
 ## Crear demanda para la moneda
 La primera función de los impuestos y, posiblemente, la más importante de todas, es la de crear demanda para la moneda nacional.
-Por un lado, el gobierno crea la moneda, pero para que el país utilice esta moneda como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda.
+Por un lado, el gobierno crea la moneda, pero para que el país la utilice como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda.
 
 La obligación de pagar impuestos crea demanda para la moneda y hace que la gente la acepte como medio de pago por su trabajo o sus bienes.
-Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones aborígenes a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto.
+Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto.
 
 Actualmente, esto es lo que ocurre con el dinero: primero es puesto en manos de las personas a cambio de un bien o un servicio, y posteriormente el gobierno retira una parte del dinero con el fin de sostener la demanda por la moneda.
-Dado que el gobierno no puede obligar a las personas a intercambiar utilizando su moneda de manera efectiva, esta dinámica es la que garantiza que la moneda sea aceptada como método de pago por la población en general para que el gobierno pueda comprar los bienes de la poblacion o ponerlos a trabajar directamente.
+Dado que el gobierno no puede obligar a las personas a intercambiar bienes y servicios utilizando su moneda de manera efectiva, esta dinámica es la que garantiza que la moneda sea aceptada como método de pago por la población en general para que el gobierno pueda comprar los bienes de la poblacion o ponerlos a trabajar directamente.
 
 ## Reducir la desigualdad
 
 Una segunda función de los impuestos consiste en reducir la desigualdad.
 En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^1] [^2].
 
-Si tuviésemos como objetivo reducirla, se podría implementar un impuesto progresivo donde los ciudadanos con mayor riqueza paguen más impuestos, mientras que aquellos que tienen una menor capacidad adquisitiva pagarían menos impuestos.
+Si tuviésemos como objetivo reducirla, se podría implementar un impuesto progresivo según el cual los ciudadanos con mayor riqueza paguen más impuestos, mientras que aquellos que tienen una menor capacidad adquisitiva paguen menos.
 Un ejemplo de un impuesto progresivo sería un impuesto escalonado sobre la riqueza.
 
 Sin embargo, debemos ser rigurosos e insistir en que los impuestos no son una forma de financiamiento para un gobierno capaz de crear dinero.
 Sostener la idea de que estos impuestos progresivos financiarían el gasto público sería un contrasentido.
 
-Imaginemos que ponemos un impuesto sobre la riqueza y lo utilizamos para financiar escuelas públicas. Este impuesto disminuye la cantidad de riqueza acumulada que tienen los sectores más adinerados en la población. Durante un período, esta recaudación se utiliza para financiar escuelas públicas. Conforme el tiempo pasa, la desigualdad continúa disminuyendo hasta que efectivamente no existe un sector al que le podamos cobrar este impuesto. En este momento, también perdemos el financiamiento para dichas escuelas.
+Imaginemos que ponemos un impuesto sobre la riqueza y lo utilizamos para financiar escuelas públicas. Este impuesto disminuye la cantidad de riqueza acumulada que tienen los sectores más adinerados de la población. Durante un cierto período, esta recaudación se utiliza efectivamente para financiar escuelas públicas. Conforme el tiempo pasa, la desigualdad continúa disminuyendo hasta que deja de existir un sector al que le podamos cobrar este impuesto. En este momento, también perdemos el financiamiento para dichas escuelas.
 
-Esta dinámica demuestra un conflicto en el uso de impuestos para cumplir ambos objetivos: reducir la desigualdad y financiar actividades que beneficien a la sociedad. Por un lado, un impuesto utilizado para reducir la desigualdad tiene un objetivo que implicaría reducir la recaudación. Por otro lado, un impuesto con un objetivo de financimiento busca mantener la cantidad de dinero que se recauda.
+Esta dinámica evidencia un conflicto en el uso de impuestos para cumplir ambos objetivos: reducir la desigualdad y financiar actividades que beneficien a la sociedad. Por un lado, un impuesto utilizado para reducir la desigualdad implica reducir progresivamente la recaudación. Por otro lado, un impuesto con un objetivo de financimiento busca mantener la cantidad de dinero que se recauda. Mantener estas visiones contradictorias supone intentar solucionar un problema estructural con otro, de forma tal que no se consigue finalmente resolver los problemas del país en su conjunto. 
 
 
 ## Controlar la inflación
