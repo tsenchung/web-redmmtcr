@@ -1,8 +1,8 @@
 ---
 author: "Mauricio Chaves, Tsen Chung, Mauricio Gutiérrez, Mauricio Morúa"
 date: 2020-12-13
-linktitle: "El valor de los impuestos más allá del financiamiento público"
-title: "El valor de los impuestos más allá del financiamiento público"
+linktitle: "Más allá del financiamiento público: el valor de los impuestos"
+title: "Más allá del financiamiento público: el valor de los impuestos"
 thumbnail: "images/content/impuestos.webp"
 placement: "featured"
 draft: false
