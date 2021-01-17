@@ -190,7 +190,7 @@ img {
 }
 
 .footnotes a {
-    word-break: break-all;
+    hyphens: auto;
 }
 
 footer {
