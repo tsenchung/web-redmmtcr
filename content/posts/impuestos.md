@@ -63,7 +63,7 @@ Esta dinámica demuestra un conflicto en el uso de impuestos para cumplir ambos 
 
 Si existe un exceso de dinero en la economía, la población podría buscar consumir más bienes y servicios de los que la sociedad puede ofrecer. Esto tendría un efecto inflacionario (los precios aumentarían) y se pueden utilizar los impuestos como un medio para remover dicho exceso.
 
-Para esto, un impuesto progresivo es especialemente efectivo, ya que, automáticamente, las personas que reciban más dinero van a pagar más impuestos.
+Para esto, un impuesto progresivo es especialemente efectivo pues, automáticamente, las personas que reciban más dinero van a pagar más impuestos.
 Esto significa que si se tiene un impuesto progresivo, no es necesario implementar constantes reformas fiscales, pues el impuesto se ajusta conforme cambian las condiciones de la economía.
 
 Por otro lado, si se tienen impuestos regresivos, se necesitan reformas fiscales periódicas para remover los excesos de dinero.
@@ -76,24 +76,24 @@ Otra función importante de los impuestos, además de las anteriormente menciona
 
 Por ejemplo, si nuestro objetivo como país es producir una economía más limpia, podemos gravar todas aquellas actividades que no se ajustan a los estándares de sostenibilidad, como las que perjudican los recursos naturales, la calidad del aire, del agua o de la tierra.
 
-De la misma manera, se pueden utilizar los impuestos para evitar comportamientos negativos para la sociedad como la especulación financiera, el consumo de sustancias nocivas para la salud, entre otros.
+De la misma manera, se pueden utilizar los impuestos para evitar comportamientos negativos para la sociedad como la especulación financiera o el consumo de sustancias nocivas para la salud, entre otros.
 
-Este tipo de impuestos hacen aún más evidente la contradicción en el discurso que promueve los impuestos como una forma de financiamiento, pues si financiamos objetivos comunes a través de actividades con un impacto negativo, estamos estableciendo un incentivo para continuar con estos comportamientos.
+Este tipo de impuestos hacen aún más evidente la contradicción en el discurso que promueve los impuestos como una forma de financiamiento, pues si financiamos objetivos comunes a través de actividades con un impacto negativo, también estamos estableciendo un incentivo para continuar con estos comportamientos.
 
-Por ejemplo, en Costa Rica, una buena parte de la recaudación viene del impuesto a los combustibles y si disminuye el consumo de combustible, la recaudación bajaría y las actividades que están financiadas por este impuesto perderían parte de su financiamiento.
+En Costa Rica, por ejemplo, una buena parte de la recaudación viene del impuesto a los combustibles. Si disminuye el consumo de combustible, la recaudación bajaría y las actividades que están financiadas por este impuesto perderían parte de su financiamiento.
 
 ## El problema de asociar impuestos con financiamiento
 
 Es tentador utilizar el financiamiento del gasto público para justificar el cobro de impuestos. Sin embargo, tal perspectiva, hasta ahora dominante, resulta contraproducente en muchos sentidos.
 
-Esta dinámica justifica la acumulación de riqueza en pocas manos para así cobrarles impuestos y financiar el gasto público. Lo cuál les otorga aún más poder a las clases privilegiadas para negociar beneficios por parte del estado, amparadas en su importancia para los ingresos públicos.
-De esta forma, se amplía la desigualdad en el país como se ha visto en las últimas décadas.
+Además de las contradicciones ya mencionadas, esta dinámica justifica la acumulación de riqueza en pocas manos para así cobrarles impuestos y financiar el gasto público. Esto les otorga aún más poder a las clases privilegiadas para negociar beneficios por parte del estado amparadas en su importancia para los ingresos públicos.
+De esta forma, la desigualdad en el país continúa ampliándose, tal como se ha visto en las últimas décadas.
 
-Esto también les da más influencia sobre el discurso público y, por último, permite que la ineficiencia del gasto público sea utilizada por algunos como justificación para no pagar impuestos. La ineficiencia del gasto público es un problema real que debe ser solucionado, pero esto no implica que no se puedan y se deban tomar acciones para eliminar los altos niveles de pobreza y desigualdad.
+Con la acumulación de poder, dichos grupos obtienen cada vez más influencia sobre el discurso público. Esta influencia les permite, por ejemplo, utilizar la ineficiencia del gasto público como justificación para no pagar impuestos. La ineficiencia del gasto público es un problema real que debe ser atendido, pero esto no implica que no se puedan y se deban tomar acciones para eliminar los altos niveles de pobreza y desigualdad.
 
 
 ## Conclusión
-Las cuatro razones arriba mencionadas son suficientes para comprender la importancia y función de los impuestos sin necesidad de utilizar como excusa el financiamiento del gasto público. Este entendimiento es ventajoso a la hora de perseguir políticas que mejoren nuestra calidad de vida y evitar que el poder se concentre en pocas manos.
+Las cuatro razones arriba mencionadas son suficientes para comprender la importancia y función de los impuestos sin necesidad de utilizar como excusa el financiamiento del gasto público. Este entendimiento es ventajoso a la hora de perseguir políticas que mejoren nuestra calidad de vida y evitar que el poder se siga concentrando en pocas manos.
 
 [^1]: [TAXATION AND PRIMITIVEACCUMULATION: THE CASEOF COLONIAL AFRICA](https://modernmoneynetwork.org/sites/default/files/biblio/RiPE%20Forstater.pdf)
 [^2]: [La muerte del virrey Blasco Núñez Vela y la creación de un mercado de trabajadores en el Perú virreinal](https://grepa.es/blog/la-muerte-del-virrey-blasco-n%C3%BA%C3%B1ez-vela-y-la-creaci%C3%B3n-de-un-mercado-de-trabajadores-en-el-per%C3%BA-virreinal)
