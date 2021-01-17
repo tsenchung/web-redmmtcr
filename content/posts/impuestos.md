@@ -19,7 +19,7 @@ Comúnmente se nos habla de los impuestos como la forma en que el gobierno se pr
 Según esta lógica, el gobierno debe recibir ingresos para gastar y, en consecuencia, se dice popularmente que es financiado con el dinero de todos los ciudadanos que cumplen sus deberes tributarios.
 Así se ha establecido tanto en la ley como en el discurso público.
 
-Este esquema de "primero ingresos, luego gastos" equipara las finanzas del gobierno con las del sector privado y contribuye de esta forma a una serie de mitos y malentendidos que dificultan el avance en estas discusiones.
+Este esquema de "primero ingresos, luego gastos" equipara las finanzas del gobierno con las del sector privado y contribuye de esta forma a una serie de mitos y malentendidos que dificultan el avance en estas discusiones[^1].
 Una muestra de ello es la forma en que se tiende a estigmatizar a trabajadores del sector informal debido a que no aportan algunos impuestos relacionados con su actividad económica, pues se afirma que este sector contribuye así a la reducción de los ingresos públicos y, en consecuencia, al deterioro de la infraestructura y los servicios que brinda el estado.
 Por otro lado, este mismo discurso defiende las exoneraciones fiscales como estímulo a otros sectores.
 Esta asignación de valores sociales relacionada con el pago de impuestos es lo que se conoce en otros países con el término de "ciudadanía tributaria", una práctica que tiende a ocultar problemas estructurales y a justificar la acumulación de poder entre las personas que poseen más riqueza.
@@ -38,7 +38,7 @@ La primera función de los impuestos y, posiblemente, la más importante de toda
 Por un lado, el gobierno crea la moneda, pero para que el país la utilice como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda.
 
 La obligación de pagar impuestos crea demanda para la moneda y hace que la gente la acepte como medio de pago por su trabajo o sus bienes.
-Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto[^1]. Dinámicas similares también se desarrollaron en América Latina[^2].
+Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto[^2]. Dinámicas similares también se desarrollaron en América Latina[^3].
 
 Actualmente, esto es lo que ocurre con el dinero: primero es puesto en manos de las personas a cambio de un bien o un servicio, y posteriormente el gobierno retira una parte del dinero con el fin de sostener la demanda por la moneda.
 Dado que el gobierno no puede obligar a las personas a intercambiar bienes y servicios utilizando su moneda de manera efectiva, esta dinámica es la que garantiza que la moneda sea aceptada como método de pago por la población en general para que el gobierno pueda comprar los bienes de la poblacion o ponerlos a trabajar directamente.
@@ -46,7 +46,7 @@ Dado que el gobierno no puede obligar a las personas a intercambiar bienes y ser
 ## Reducir la desigualdad
 
 Una segunda función de los impuestos consiste en reducir la desigualdad.
-En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^3] [^4].
+En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^4] [^5].
 
 Si tuviésemos como objetivo reducirla, se podría implementar un impuesto progresivo según el cual los ciudadanos con mayor riqueza paguen más impuestos, mientras que aquellos que tienen una menor capacidad adquisitiva paguen menos.
 Un ejemplo de un impuesto progresivo sería un impuesto escalonado sobre la riqueza.
@@ -94,8 +94,8 @@ Con la acumulación de poder, dichos grupos obtienen cada vez más influencia so
 
 ## Conclusión
 Las cuatro razones arriba mencionadas son suficientes para comprender la importancia y función de los impuestos sin necesidad de utilizar como excusa el financiamiento del gasto público. Este entendimiento es ventajoso a la hora de perseguir políticas que mejoren nuestra calidad de vida y evitar que el poder se siga concentrando en pocas manos.
-
-[^1]: [Taxation And Primite Accumulation: The Case Of Colonial Africa](https://modernmoneynetwork.org/sites/default/files/biblio/RiPE%20Forstater.pdf)
-[^2]: [La muerte del virrey Blasco Núñez Vela y la creación de un mercado de trabajadores en el Perú virreinal](https://grepa.es/blog/la-muerte-del-virrey-blasco-n%C3%BA%C3%B1ez-vela-y-la-creaci%C3%B3n-de-un-mercado-de-trabajadores-en-el-per%C3%BA-virreinal)
-[^3]: [Pobreza y desigualdad en Costa Rica: una mirada más allá de la distribución de los ingresos](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016)
-[^4]: [Cierto: Costa Rica es de los países más desiguales del mundo, según el Banco Mundial](https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/)
+[^1]: {{< ref "deuda-publica-dolares-fmi.md" >}}
+[^2]: [Taxation And Primite Accumulation: The Case Of Colonial Africa](https://modernmoneynetwork.org/sites/default/files/biblio/RiPE%20Forstater.pdf)
+[^3]: [La muerte del virrey Blasco Núñez Vela y la creación de un mercado de trabajadores en el Perú virreinal](https://grepa.es/blog/la-muerte-del-virrey-blasco-n%C3%BA%C3%B1ez-vela-y-la-creaci%C3%B3n-de-un-mercado-de-trabajadores-en-el-per%C3%BA-virreinal)
+[^4]: [Pobreza y desigualdad en Costa Rica: una mirada más allá de la distribución de los ingresos](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016)
+[^5]: [Cierto: Costa Rica es de los países más desiguales del mundo, según el Banco Mundial](https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/)
