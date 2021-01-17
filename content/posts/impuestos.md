@@ -38,7 +38,7 @@ La primera función de los impuestos y, posiblemente, la más importante de toda
 Por un lado, el gobierno crea la moneda, pero para que el país la utilice como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda.
 
 La obligación de pagar impuestos crea demanda para la moneda y hace que la gente la acepte como medio de pago por su trabajo o sus bienes.
-Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto.
+Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto[^1]. Dinámicas similares también se desarrollaron en América Latina[^2].
 
 Actualmente, esto es lo que ocurre con el dinero: primero es puesto en manos de las personas a cambio de un bien o un servicio, y posteriormente el gobierno retira una parte del dinero con el fin de sostener la demanda por la moneda.
 Dado que el gobierno no puede obligar a las personas a intercambiar bienes y servicios utilizando su moneda de manera efectiva, esta dinámica es la que garantiza que la moneda sea aceptada como método de pago por la población en general para que el gobierno pueda comprar los bienes de la poblacion o ponerlos a trabajar directamente.
@@ -46,7 +46,7 @@ Dado que el gobierno no puede obligar a las personas a intercambiar bienes y ser
 ## Reducir la desigualdad
 
 Una segunda función de los impuestos consiste en reducir la desigualdad.
-En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^1] [^2].
+En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^3] [^4].
 
 Si tuviésemos como objetivo reducirla, se podría implementar un impuesto progresivo según el cual los ciudadanos con mayor riqueza paguen más impuestos, mientras que aquellos que tienen una menor capacidad adquisitiva paguen menos.
 Un ejemplo de un impuesto progresivo sería un impuesto escalonado sobre la riqueza.
@@ -63,7 +63,7 @@ Esta dinámica evidencia un conflicto en el uso de impuestos para cumplir ambos 
 
 Si existe un exceso de dinero en la economía, la población podría buscar consumir más bienes y servicios de los que la sociedad puede ofrecer. Esto tendría un efecto inflacionario (los precios aumentarían) y se pueden utilizar los impuestos como un medio para remover dicho exceso.
 
-Para esto, un impuesto progresivo es especialemente efectivo, ya que, automáticamente, las personas que reciban más dinero van a pagar más impuestos.
+Para esto, un impuesto progresivo es especialemente efectivo pues, automáticamente, las personas que reciban más dinero van a pagar más impuestos.
 Esto significa que si se tiene un impuesto progresivo, no es necesario implementar constantes reformas fiscales, pues el impuesto se ajusta conforme cambian las condiciones de la economía.
 
 Por otro lado, si se tienen impuestos regresivos, se necesitan reformas fiscales periódicas para remover los excesos de dinero.
@@ -76,25 +76,26 @@ Otra función importante de los impuestos, además de las anteriormente menciona
 
 Por ejemplo, si nuestro objetivo como país es producir una economía más limpia, podemos gravar todas aquellas actividades que no se ajustan a los estándares de sostenibilidad, como las que perjudican los recursos naturales, la calidad del aire, del agua o de la tierra.
 
-De la misma manera, se pueden utilizar los impuestos para evitar comportamientos negativos para la sociedad como la especulación financiera, el consumo de sustancias nocivas para la salud, entre otros.
+De la misma manera, se pueden utilizar los impuestos para evitar comportamientos negativos para la sociedad como la especulación financiera o el consumo de sustancias nocivas para la salud, entre otros.
 
-Este tipo de impuestos hacen aún más evidente la contradicción en el discurso que promueve los impuestos como una forma de financiamiento, pues si financiamos objetivos comunes a través de actividades con un impacto negativo, estamos estableciendo un incentivo para continuar con estos comportamientos.
+Este tipo de impuestos hacen aún más evidente la contradicción en el discurso que promueve los impuestos como una forma de financiamiento, pues si financiamos objetivos comunes a través de actividades con un impacto negativo, también estamos estableciendo un incentivo para continuar con estos comportamientos.
 
-Por ejemplo, en Costa Rica, una buena parte de la recaudación viene del impuesto a los combustibles y si disminuye el consumo de combustible, la recaudación bajaría y las actividades que están financiadas por este impuesto perderían parte de su financiamiento.
+En Costa Rica, por ejemplo, una buena parte de la recaudación viene del impuesto a los combustibles. Si disminuye el consumo de combustible, la recaudación bajaría y las actividades que están financiadas por este impuesto perderían parte de su financiamiento.
 
 ## El problema de asociar impuestos con financiamiento
 
 Es tentador utilizar el financiamiento del gasto público para justificar el cobro de impuestos. Sin embargo, tal perspectiva, hasta ahora dominante, resulta contraproducente en muchos sentidos.
 
-Esta dinámica justifica la acumulación de riqueza en pocas manos para así cobrarles impuestos y financiar el gasto público. Lo cuál les otorga aún más poder a las clases privilegiadas para negociar beneficios por parte del estado, amparadas en su importancia para los ingresos públicos.
-De esta forma, se amplía la desigualdad en el país como se ha visto en las últimas décadas.
+Además de las contradicciones ya mencionadas, esta dinámica justifica la acumulación de riqueza en pocas manos para así cobrarles impuestos y financiar el gasto público. Esto les otorga aún más poder a las clases privilegiadas para negociar beneficios por parte del estado amparadas en su importancia para los ingresos públicos.
+De esta forma, la desigualdad en el país continúa ampliándose, tal como se ha visto en las últimas décadas.
 
-Esto también les da más influencia sobre el discurso público y, por último, permite que la ineficiencia del gasto público sea utilizada por algunos como justificación para no pagar impuestos. La ineficiencia del gasto público es un problema real que debe ser solucionado, pero esto no implica que no se puedan y se deban tomar acciones para eliminar los altos niveles de pobreza y desigualdad.
+Con la acumulación de poder, dichos grupos obtienen cada vez más influencia sobre el discurso público. Esta influencia les permite, por ejemplo, utilizar la ineficiencia del gasto público como justificación para no pagar impuestos. La ineficiencia del gasto público es un problema real que debe ser atendido, pero esto no implica que no se puedan y se deban tomar acciones para eliminar los altos niveles de pobreza y desigualdad.
 
 
 ## Conclusión
-Las cuatro razones arriba mencionadas son suficientes para comprender la importancia y función de los impuestos sin necesidad de utilizar como excusa el financiamiento del gasto público. Este entendimiento es ventajoso a la hora de perseguir políticas que mejoren nuestra calidad de vida y evitar que el poder se concentre en pocas manos.
+Las cuatro razones arriba mencionadas son suficientes para comprender la importancia y función de los impuestos sin necesidad de utilizar como excusa el financiamiento del gasto público. Este entendimiento es ventajoso a la hora de perseguir políticas que mejoren nuestra calidad de vida y evitar que el poder se siga concentrando en pocas manos.
 
-
-[^1]: [Pobreza y desigualdad en Costa Rica: una mirada más allá de la distribución de los ingresos](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016)
-[^2]: [Cierto: Costa Rica es de los países más desiguales del mundo, según el Banco Mundial](https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/)
+[^1]: [TAXATION AND PRIMITIVEACCUMULATION: THE CASEOF COLONIAL AFRICA](https://modernmoneynetwork.org/sites/default/files/biblio/RiPE%20Forstater.pdf)
+[^2]: [La muerte del virrey Blasco Núñez Vela y la creación de un mercado de trabajadores en el Perú virreinal](https://grepa.es/blog/la-muerte-del-virrey-blasco-n%C3%BA%C3%B1ez-vela-y-la-creaci%C3%B3n-de-un-mercado-de-trabajadores-en-el-per%C3%BA-virreinal)
+[^3]: [Pobreza y desigualdad en Costa Rica: una mirada más allá de la distribución de los ingresos](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016)
+[^4]: [Cierto: Costa Rica es de los países más desiguales del mundo, según el Banco Mundial](https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/)
