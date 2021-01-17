@@ -38,7 +38,7 @@ La primera función de los impuestos y, posiblemente, la más importante de toda
 Por un lado, el gobierno crea la moneda, pero para que el país utilice esta moneda como unidad de intercambio es imprescindible que el gobierno cobre impuestos es esa misma moneda.
 
 La obligación de pagar impuestos crea demanda para la moneda y hace que la gente la acepte como medio de pago por su trabajo o sus bienes.
-Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones aborígenes a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto.
+Un ejemplo de esta dinámica se puede ver en la época colonial en África, donde se utilizó un impuesto para forzar a las poblaciones aborígenes a trabajar o producir cultivos a cambio de dinero para pagar dicho impuesto[^1]. Dinámicas similares también se desarrollaron en América Latina[^2].
 
 Actualmente, esto es lo que ocurre con el dinero: primero es puesto en manos de las personas a cambio de un bien o un servicio, y posteriormente el gobierno retira una parte del dinero con el fin de sostener la demanda por la moneda.
 Dado que el gobierno no puede obligar a las personas a intercambiar utilizando su moneda de manera efectiva, esta dinámica es la que garantiza que la moneda sea aceptada como método de pago por la población en general para que el gobierno pueda comprar los bienes de la poblacion o ponerlos a trabajar directamente.
@@ -46,7 +46,7 @@ Dado que el gobierno no puede obligar a las personas a intercambiar utilizando s
 ## Reducir la desigualdad
 
 Una segunda función de los impuestos consiste en reducir la desigualdad.
-En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^1] [^2].
+En la actualidad, y en contraste con diversos momentos de su historia reciente, Costa Rica es uno de los países más desiguales de América Latina y del mundo[^3] [^4].
 
 Si tuviésemos como objetivo reducirla, se podría implementar un impuesto progresivo donde los ciudadanos con mayor riqueza paguen más impuestos, mientras que aquellos que tienen una menor capacidad adquisitiva pagarían menos impuestos.
 Un ejemplo de un impuesto progresivo sería un impuesto escalonado sobre la riqueza.
@@ -95,6 +95,7 @@ Esto también les da más influencia sobre el discurso público y, por último, 
 ## Conclusión
 Las cuatro razones arriba mencionadas son suficientes para comprender la importancia y función de los impuestos sin necesidad de utilizar como excusa el financiamiento del gasto público. Este entendimiento es ventajoso a la hora de perseguir políticas que mejoren nuestra calidad de vida y evitar que el poder se concentre en pocas manos.
 
-
-[^1]: [Pobreza y desigualdad en Costa Rica: una mirada más allá de la distribución de los ingresos](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016)
-[^2]: [Cierto: Costa Rica es de los países más desiguales del mundo, según el Banco Mundial](https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/)
+[^1]: [TAXATION AND PRIMITIVEACCUMULATION: THE CASEOF COLONIAL AFRICA](https://modernmoneynetwork.org/sites/default/files/biblio/RiPE%20Forstater.pdf)
+[^2]: [La muerte del virrey Blasco Núñez Vela y la creación de un mercado de trabajadores en el Perú virreinal](https://grepa.es/blog/la-muerte-del-virrey-blasco-n%C3%BA%C3%B1ez-vela-y-la-creaci%C3%B3n-de-un-mercado-de-trabajadores-en-el-per%C3%BA-virreinal)
+[^3]: [Pobreza y desigualdad en Costa Rica: una mirada más allá de la distribución de los ingresos](http://scielo.sld.cu/scielo.php?script=sci_arttext&pid=S2308-01322020000100016)
+[^4]: [Cierto: Costa Rica es de los países más desiguales del mundo, según el Banco Mundial](https://doblecheck.cr/cierto-costa-rica-es-de-los-paises-mas-desiguales-del-mundo-segun-el-banco-mundial/)
