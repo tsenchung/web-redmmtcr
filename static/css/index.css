@@ -106,6 +106,41 @@ main.index h1, main.index h2, main.index h3 {
     height: 100%;
 }
 
+.footnotes a {
+    hyphens: auto;
+}
+
+footer {
+    padding: 0;
+    width: auto;
+    max-width: 100%;
+    color: white;
+    clear: both;
+    text-align: left;
+}
+
+footer .content h6 {
+    color: white;
+}
+
+footer a:hover span {
+    color: #A6D290;
+}
+
+
+footer span {
+    color: white;
+}
+
+footer .divider {
+    background-color: rgba(31,47,79,0.5);
+    height: 2.5rem;
+}
+
+footer .content {
+    background-color: rgba(31,47,79,0.8);
+}
+
 .recent-item a {
     color: #555;
     display: block;

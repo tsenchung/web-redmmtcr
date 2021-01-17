@@ -5,7 +5,7 @@ linktitle: Deuda Publica y Dolares del FMI
 title: La deuda pública y los dólares del FMI
 thumbnail: "images/content/dollar-thumb.webp"
 draft: false
-placement: "featured"
+placement: "regular"
 tags: ["FMI"]
 ---
 
