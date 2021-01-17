@@ -1,60 +1,13 @@
-html {
-    font-size: 100%;
-}
-
-.post {
-    padding: 0;
-}
-
-.pagination.custom {
-    display: block;
-    margin: 1rem 0rem;
-}
-
-.post h1, .post h2 {
-    font-weight: 700;
-}
-
-.post h2 {
-    font-size: 1.5rem;
-    margin-top: 1.5rem;
-    margin-bottom: 1.5rem;
-}
-
-.post ul {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    list-style: disc inside;
-    padding-left: 2.5rem;
-}
-
-.post ol {
-    margin-top: 1rem;
-    margin-bottom: 1rem;
-    padding-left: 2.5rem;
-}
-
-.post p {
-    margin: 0 0 1rem;
-    text-align: left;
-}
-
-main {
-    display: initial;
+main.index {
+    font-family: 'Roboto', sans-serif;
 }
 
 main.index h1, main.index h2 {
     margin-bottom: 1rem;
 }
 
-.container {
-    width: auto;
-    max-width: 100%;
-    overflow-x: hidden;
-}
-
-nav {
-    margin-top: 1rem;
+main.index h1, main.index h2, main.index h3 {
+    font-family: 'Roboto', sans-serif;
 }
 
 .featured {
@@ -62,9 +15,6 @@ nav {
     margin-bottom: 3rem;
 }
 
-.recent {
-    margin-bottom: 3rem;
-}
 .featured-item {
     height: 437px;
 }
@@ -75,6 +25,12 @@ nav {
     padding-top: 1rem;
     margin: 0;
     font-weight: 700;
+}
+
+.item-info {
+    text-align: center;
+    font-family: "Libre Baskerville", "Times New Roman" , Times, serif;
+    font-size: 0.9rem;
 }
 
 .featured-item-image {
@@ -116,49 +72,10 @@ nav {
     margin-left: auto;
     margin-right: auto;
     position: relative;
-
-}
-
-main.index {
-    font-family: 'Roboto', sans-serif;
-}
-
-main.index h1, main.index h2, main.index h3, main.index h4, main.index h5, main.index h6 {
-    font-family: 'Roboto', sans-serif;
-}
-
-.item-info {
-    text-align: center;
-    font-family: "Libre Baskerville", "Times New Roman" , Times, serif;
-    font-size: 0.9rem;
-}
-
-span.lighter {
-    color: #595959;
-    opacity: 1.0;
-}
-
-.post-title {
-    font-size: 3.5rem;
-}
-
-.post-info {
-    opacity: 0.5;
-    color: #5F5F5F;
-
-    letter-spacing: 0;
-    line-height: 20px;
-    text-align: center;
-    margin-bottom: 2rem;
-}
-
-.post {
-    max-width: 38rem;
-    margin: auto;
-    font-family: "Libre Baskerville", "Times New Roman", Times, serif;
 }
 
 .essential {
+    padding: 1rem;
     background-color: #FAFCFF;
 }
 
@@ -176,12 +93,12 @@ span.lighter {
     text-align: center;
 }
 
-.recent-item h2, .recent-item p {
-    text-align: left;
+.recent {
+    margin-bottom: 3rem;
 }
 
-img {
-    object-fit: cover;
+.recent-item h2, .recent-item p {
+    text-align: left;
 }
 
 .recent-item-image {
@@ -230,16 +147,8 @@ footer .content {
     padding: 1rem 0;
 }
 
-a {
-    color: #185B95;
-}
-
 .recent-item-content {
     height: 14rem;
-}
-
-.padding {
-    padding: 1rem;
 }
 
 .recent h2 {
@@ -262,93 +171,36 @@ a {
 }
 
 @media only screen and (max-width: 768px) {
+    .featured-item {
+        margin-top: 1.5rem;
+    }
+
+    .recent {
+        padding-left: 1rem;
+    }
+
     .recent-item-image {
         display: none;
     }
     .recent h2, .recent p {
         text-align: center;
     }
-
-    .featured-item {
-        margin-top: 1.5rem;
-    }
-
-    .other-sites {
-        margin-top: 2rem;
-    }
-
-    .copyright {
-        margin-top: 1rem;
-    }
-
-    .post {
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-
-    .recent {
-        padding-left: 1rem;
-    }
-
-    .post-title {
-        font-size: 3rem;
-    }
 }
 
 @media only screen and (max-width: 1215px) {
-    .recent-item.tile {
-        width: 100%;
-    }
-
-    .nav ul {
-        right: 1rem;
-    }
-
     .recent {
         padding-right: 1rem;
     }
+
     .recent-item a {
+        width: 100%;
+    }
+
+    .recent-item.tile {
         width: 100%;
     }
 
     .recent-item-content {
         height: auto;
     }
-    .pagination .left {
-        left: 1rem;
-    }
-    .pagination .right {
-        right: 1rem;
-    }
-    footer > .content {
-        padding-left: 1rem;
-        padding-right: 1rem;
-    }
-}
-
-img.banner {
-    max-height: 15rem;
-    width: 100%;
-    height: auto;
-    margin-top: 2rem;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 38rem;
-}
-
-.post-info {
-    opacity: 1.0;
-}
-
-.content .footer-link:not(:last-child) {
-    margin-bottom: 0.5rem;
-}
-
-footer > .content {
-    padding-top: 2rem;
-    padding-bottom: 1rem;
-}
-
-.other-sites {
-    justify-content: flex-end;
 }

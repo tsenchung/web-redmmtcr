@@ -18,20 +18,23 @@
 	{{- end }}
 
 	<title>{{- if .IsHome }}{{ .Site.Title }}{{- else }}{{ .Title }} &middot; {{ .Site.Title }}{{- end }}</title>
-
 	<!-- CSS -->
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.1/css/bulma.min.css">
 	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto&display=swap">
-	<link rel="stylesheet" href="/fontawesome/css/all.css">
+	<link rel="stylesheet" href="/fontawesome/css/all.min.css">
+
 	{{- $inServerMode	:= .Site.IsServer }}
 	{{- $cssTarget		:= "css/style.css" }}
 	{{- $cssOptions		:= cond ($inServerMode) (dict "targetPath" $cssTarget "enableSourceMap" true) (dict "targetPath" $cssTarget "outputStyle" "compressed") }}
 	{{- $style			:= resources.Get "scss/tale.scss" | toCSS $cssOptions }}
 	<link rel="stylesheet" href="{{ $style.RelPermalink }}">
 	<link rel="stylesheet" href="{{ "css/fonts.css" | relURL }}">
-	{{ range .Site.Params.css -}}
-	<link rel="stylesheet" href="{{ . | relURL }}">
-	{{ end -}}
+
+	<link rel="stylesheet" href="/css/common.css">
+	{{ if .IsHome }}
+	<link rel="stylesheet" href="/css/index.css">
+	{{ end }}
+	<link rel="stylesheet" href="/css/post.css">
 
 	<!-- Favicon -->
 	<link rel="icon" type="image/png" sizes="32x32" href="{{ "images/favicon-32x32.png" | relURL }}">
