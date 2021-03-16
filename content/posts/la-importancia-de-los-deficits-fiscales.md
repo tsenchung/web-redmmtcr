@@ -1,6 +1,6 @@
 ---
 author: "Bill Mitchell"
-date: 2020-11-15
+date: 2021-03-15
 linktitle: "Entender la importancia de los déficits fiscales: análisis gráfico de la relación macroeconómica entre ingresos y gastos"
 title: "Entender la importancia de los déficits fiscales: análisis gráfico de la relación macroeconómica entre ingresos y gastos"
 image: "images/content/mes-africa.webp"
@@ -9,7 +9,7 @@ draft: false
 placement: "regular"
 ---
 
-Publicado originalmente en inglés en el blog del autor
+[Publicado originalmente en inglés en el blog del autor](http://bilbo.economicoutlook.net/blog/?p=46895) y [traducido por Red MMT España](http://www.redmmt.es/entender-la-importancia-de-los-deficits-fiscales-analisis-grafico-de-la-relacion-macroeconomica-entre-ingresos-y-gastos/)
 
 Lo que sigue es una herramienta pedagógica que utilizo en programas introductorios sobre macroeconomía que permite a los estudiantes comprender la regla básica de la macroeconomía: el gasto es igual al producto es igual al ingreso, lo cual impulsa el empleo.
 
@@ -35,7 +35,7 @@ Comenzamos con una simple representación de la economía con hogares y empresas
 
 El gobierno también está allí, pero al principio nos abstraeremos de su papel, aunque nada de esto podría suceder sin las inyecciones de dinero del gobierno.
 
-PLACEHOLDER
+![](/images/content/Cartoon-1-810x403.webp)
 
 A lo largo de este análisis, asumimos que los precios son estables, por lo que todos los flujos de dólares están efectivamente en términos de poder adquisitivo real.
 
@@ -47,7 +47,7 @@ El gasto de consumo de los hogares es impulsado por el ingreso total, que devuel
 
 El gasto impulsa la producción y el empleo, lo que equivale a ingresos.
 
-PLACEHOLDER
+![](/images/content/Cartoon-2-1024x569.webp)
 
 Si no hay fugas de este flujo circular y / o choques externos, entonces el sistema sería estable y persistiría indefinidamente.
 
@@ -67,13 +67,13 @@ Ahora bien, si eso fuera todo —impuestos que extraen ingresos del sector no es
 
 Como resultado, las empresas responderían a la acumulación de inventarios no vendidos y produciendo menos y despedirían trabajadores.
 
-PLACEHOLDER
+![](/images/content/Cartoon-3-1024x539.png)
 
 Así pues, en un sistema monetario moderno, la imposición de tributos crea la condición en la que aumentan los recursos ociosos.
 
 Para devolver la economía al equilibrio anterior (restaurar el nivel del PIB y la renta nacional), el flujo del gasto público debe al menos compensar la fuga de poder adquisitivo por el drenaje tributario.
 
-PLACEHOLDER
+![](/images/content/Cartoon-4-1024x562.png)
 
 Ahora bien, dijimos antes que el estado estacionario original era probablemente uno en el que existía desempleo involuntario a pesar de que las expectativas de las empresas sobre volúmenes de ventas se cumplían continuamente.
 
@@ -111,7 +111,7 @@ Así pues, la propensión marginal a consumir (PMC), que es la proporción de ca
 
 Eso significa que la propensión marginal a ahorrar (PMA) sería igual a 1 menos MPC.
 
-PLACEHOLDER
+![](/images/content/Cartoon-5-1024x544.png)
 
 Ahora tenemos una fuga adicional del flujo de ingresos-gastos, que, de no ocurrir otra cosa, reduciría la producción, los ingresos, el empleo y el consiguiente gasto de consumo.
 
@@ -135,7 +135,7 @@ Las fugas reducen el gasto en producción nacional y reducen la renta nacional.
 
 Las inyecciones añaden al gasto en la producción nacional y aumentan la renta nacional.
 
-PLACEHOLDER
+![](/images/content/Cartoon-6-768x439.png)
 
 De nuevo, la pérdida de ingreso nacional podría evitarse si el déficit fiscal aumentara para contrarrestar las fugas de importaciones.
 
@@ -147,7 +147,7 @@ Con el déficit fiscal vigente, las inyecciones de flujo de gasto de la inversi�
 
 De hecho, el gobierno podría recortar su gasto neto a medida que estas otras inyecciones de gasto entraran en el flujo de gasto para mantener el nivel de producción en pleno empleo.
 
-PLACEHOLDER
+![](/images/content/Cartoon-7-1-1024x595.png)
 
 Por supuesto, hay muchos escenarios diferentes con los que podríamos jugar en este marco.
 
@@ -169,7 +169,7 @@ Por tanto, la condición de equilibrio generará un nivel estable de producción
 
 En consecuencia, para mantener el pleno empleo, la condición de ingreso nacional estable anterior puede reescribirse más específicamente de esta manera:
 
-PLACEHOLDER
+![](/images/content/Ecuacion-768x260.png)
 
 G = gasto del gobierno
 
