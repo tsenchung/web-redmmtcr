@@ -67,13 +67,13 @@ Ahora bien, si eso fuera todo —impuestos que extraen ingresos del sector no es
 
 Como resultado, las empresas responderían a la acumulación de inventarios no vendidos y produciendo menos y despedirían trabajadores.
 
-![](/images/content/Cartoon-3-1024x539.png)
+![](/images/content/Cartoon-3-1024x539.webp)
 
 Así pues, en un sistema monetario moderno, la imposición de tributos crea la condición en la que aumentan los recursos ociosos.
 
 Para devolver la economía al equilibrio anterior (restaurar el nivel del PIB y la renta nacional), el flujo del gasto público debe al menos compensar la fuga de poder adquisitivo por el drenaje tributario.
 
-![](/images/content/Cartoon-4-1024x562.png)
+![](/images/content/Cartoon-4-1024x562.webp)
 
 Ahora bien, dijimos antes que el estado estacionario original era probablemente uno en el que existía desempleo involuntario a pesar de que las expectativas de las empresas sobre volúmenes de ventas se cumplían continuamente.
 
@@ -111,7 +111,7 @@ Así pues, la propensión marginal a consumir (PMC), que es la proporción de ca
 
 Eso significa que la propensión marginal a ahorrar (PMA) sería igual a 1 menos MPC.
 
-![](/images/content/Cartoon-5-1024x544.png)
+![](/images/content/Cartoon-5-1024x544.webp)
 
 Ahora tenemos una fuga adicional del flujo de ingresos-gastos, que, de no ocurrir otra cosa, reduciría la producción, los ingresos, el empleo y el consiguiente gasto de consumo.
 
@@ -135,7 +135,7 @@ Las fugas reducen el gasto en producción nacional y reducen la renta nacional.
 
 Las inyecciones añaden al gasto en la producción nacional y aumentan la renta nacional.
 
-![](/images/content/Cartoon-6-768x439.png)
+![](/images/content/Cartoon-6-768x439.webp)
 
 De nuevo, la pérdida de ingreso nacional podría evitarse si el déficit fiscal aumentara para contrarrestar las fugas de importaciones.
 
@@ -147,7 +147,7 @@ Con el déficit fiscal vigente, las inyecciones de flujo de gasto de la inversi�
 
 De hecho, el gobierno podría recortar su gasto neto a medida que estas otras inyecciones de gasto entraran en el flujo de gasto para mantener el nivel de producción en pleno empleo.
 
-![](/images/content/Cartoon-7-1-1024x595.png)
+![](/images/content/Cartoon-7-1-1024x595.webp)
 
 Por supuesto, hay muchos escenarios diferentes con los que podríamos jugar en este marco.
 
@@ -169,7 +169,7 @@ Por tanto, la condición de equilibrio generará un nivel estable de producción
 
 En consecuencia, para mantener el pleno empleo, la condición de ingreso nacional estable anterior puede reescribirse más específicamente de esta manera:
 
-![](/images/content/Ecuacion-768x260.png)
+![](/images/content/Ecuacion-768x260.webp)
 
 G = gasto del gobierno
 
