@@ -38,7 +38,7 @@ Los estados africanos deben desarrollar un proyecto claro e independiente a larg
 
 Movilizar los recursos de África empieza con el compromiso por políticas de pleno empleo (un programa de Trabajo Garantizado), con las infraestructuras de salud pública, con la educación pública, con una agricultura sostenible, con las energías renovables, con la administración sustentable de los recursos naturales, y con una inflexible dedicación a empoderar a las mujeres y a la juventud mediante una democracia participante, transparente y fiscalizable.  Es momento en África para seguir adelante y aspirar a un futuro mejor en el cual todas sus gentes puedan progresar y realizar su completo potencial. Este futuro está al alcance, y comienza con África reclamando su soberanía económica y monetaria.
 
-
+asdf
 Firman[^1]:
 
 * Fadhel Kaboub, Denison University, Ohio, USA
