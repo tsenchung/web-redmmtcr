@@ -3,8 +3,7 @@ author: "Luis Paulino Vargas Solís"
 date: 2021-09-12
 linktitle: "Costa Rica: El déficit fiscal no es el villano que nos pintan"
 title: "Costa Rica: El déficit fiscal no es el villano que nos pintan"
-image: "images/content/mes-africa.webp"
-thumbnail: "images/content/mes-africa-thumb.webp"
+thumbnail: "images/content/cr-deficit-fiscal-no-es-el-villano-1.png"
 draft: false
 placement: "featured"
 ---
