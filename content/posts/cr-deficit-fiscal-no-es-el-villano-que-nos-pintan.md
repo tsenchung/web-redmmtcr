@@ -47,18 +47,17 @@ El déficit fiscal ha devenido una especie de “pesadilla de Freddy Krueger”,
 
 *Luis Paulino Vargas Solís, CICDE-UNED, Alajuela, Costa Rica, 7 de septiembre de 2021*
 
-# Algunas cifras ilustrativas
+## Algunas cifras ilustrativas
 
 La “otra economía”, distinta de las zonas francas, y de la cual depende cerca del 95% de los empleos, así como el pago de impuestos, se recupera a un ritmo anémico
-![Figura 1: IMAE Régimen definitivo (enero 2020 a julio 2021)](/images/content/cr-deficit-fiscal-no-es-el-villano-1.png))
+![Figura 1: IMAE Régimen definitivo (enero 2020 a julio 2021)](/images/content/cr-deficit-fiscal-no-es-el-villano-1.png)
 Fuente: elaboración propia con base en datos del Banco Central de Costa Rica (IMAE: Índice Mensual de Actividad Económica) (Régimen definitivo: economía nacional excepto zonas francas)
 
+---
 
 Después de una abrupta pérdida de empleos, su recuperación es sumamente lenta.
 ![Figura 2: Población ocupada total (enero 2020 a julio 2021)](/images/content/cr-deficit-fiscal-no-es-el-villano-2.png)
 Fuente: elaboración propia con base en datos del INEC (los datos corresponden al trimestre que termina en el mes indicado).
-
-
 
 [^1]: CEPAL, La paradoja de la recuperación en América Latina y el Caribe. Crecimiento con persistentes problemas estructurales: desigualdad, pobreza, poca inversión y baja productividad. Informe especial Covid-19, julio 2021.
 
