@@ -4,7 +4,7 @@
 	{{ if .Params.Image }}
 	<img class="banner" src="/{{ .Params.Image }}" aria-hidden="true">
 	{{ end }}
-	<div class="post">
+	<article class="post">
 		{{ partial "single/title.html" . }}
 		{{ partial "single/post-info.html" . }}
 		{{ partial "single/header.html" . }}
@@ -12,7 +12,7 @@
 		{{ .Content }}
 
 		{{ partial "single/footer.html" . }}
-	</div>
+	</article>
 
 	<div class="pagination custom">
 		{{- if .PrevPage }}
