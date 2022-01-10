@@ -1,4 +1,4 @@
-<div class="tile is-6 recent-item is-child">
+<article class="recent-item">
     <a href="{{ .Permalink }}">
         <div class="columns recent-item-content">
             <div class="column is-one-third">
@@ -14,10 +14,13 @@
                     {{ .Page.Site.Author.name }}
                     {{- end }}
                     <br>
-                    <span class="lighter"><time
-                            datetime="{{ .Page.PublishDate }}"></time>{{ i18n "publishdate" .Page }}</time></span>
+                    <span class="lighter">
+                        <time datetime="{{ .Page.PublishDate }}">
+                            {{ i18n "publishdate" .Page}}
+                        </time>
+                    </span>
                 </p>
             </div>
         </div>
     </a>
-</div>
+</article>

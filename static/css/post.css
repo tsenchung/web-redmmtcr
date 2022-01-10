@@ -1,9 +1,8 @@
-
 .post {
     padding: 0;
     max-width: 38rem;
     margin: auto;
-    font-family: "Libre Baskerville", "Times New Roman", Times, serif;
+    font-family: Georgia, serif;
 }
 
 .post h1, .post h2, .post h3 {

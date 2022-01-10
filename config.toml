@@ -2,7 +2,6 @@ baseurl = "https://redmmt.cr/"
 title = "Red MMT Costa Rica"
 copyright = "Copyright &copy; 2020 - Red MMT Costa Rica"
 canonifyurls = true
-theme = "tale"
 paginate = 5
 
 summaryLength = 30
