@@ -1,21 +1,9 @@
-<script context="module" lang="ts">
-  import type { Entry } from '$lib/types/Entry';
-  import { register } from '$lib/Registry';
+---
+title: Costa Rica: El déficit fiscal no es el villano que nos pintan
+author: Luis Paulino Vargas Solís
+date: 12 de septiembre de 2021
+---
 
-  let entry: Entry = {
-    id: 'deficit-fiscal-no-es-el-villano',
-    title: 'Costa Rica: El déficit fiscal no es el villano que nos pintan',
-    author: 'Luis Paulino Vargas Solís',
-    date: '12 de septiembre de 2021'
-  };
-  register(entry);
-</script>
-
-<script lang="ts">
-  import Title from '$lib/components/Title.svelte';
-</script>
-
-<Title {entry} />
 <section class="content">
   <p>
     <a
