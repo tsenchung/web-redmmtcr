@@ -14,5 +14,5 @@
   <h2>{entry.title}</h2>
   <p>{entry.author}</p>
   <p>{entry.date}</p>
-  <p>{entry.path}</p>
+  <a href={entry.path}>Leer</a>
 </article>

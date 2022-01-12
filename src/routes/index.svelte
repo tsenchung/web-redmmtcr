@@ -3,7 +3,7 @@
   import { getEntries } from '$lib/Registry';
 
   // !! Vite specific!!
-  const _ = import.meta.globEager('./articles/[!_]*');
+  const _ = import.meta.globEager('./posts/[!_]*');
 
   let featured = getEntries();
 
