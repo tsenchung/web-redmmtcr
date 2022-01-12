@@ -16,6 +16,27 @@ function header(metadata) {
     <Title {entry} />`;
 }
 
+export function html() {
+  return {
+    markup({ content, filename }) {
+      if (!filename.endsWith('.html')) {
+        return { code: content }
+      }
+      const metaMatches = content.match(/^\-\-\-[\s\S]*?\-\-\-/);
+
+      if(metaMatches) {
+        const meta = metaMatches[0];
+        let metaObj = YAML.parse(meta.replace(/^\-\-\-/, '').replace(/\-\-\-\s*$/, ''));
+        const path = filename.replace(/\.html$/, '').replace(/^.*routes/, '');
+        metaObj['path'] = path;
+        const c = header(metaObj) + content.replace(/^\-\-\-[\s\S]*?\-\-\-/, '');
+        return { code: c };
+      }
+      return { code: content.replace(/^\-\-\-[\s\S]*?\-\-\-/, '') }
+    }
+  }
+}
+
 export function markdown() {
   return {
       markup(params) {
