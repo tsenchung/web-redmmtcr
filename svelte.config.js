@@ -1,6 +1,6 @@
 import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
-import { wahoo } from './preprocessor.js';
+import { markdown } from './preprocessor.js';
 
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -13,10 +13,10 @@ const config = {
         prependData: '@use "src/variables.scss" as *;'
       }
     }),
-    wahoo()
+    markdown()
   ],
 
-  extensions: [".svelte", ".wahoo"],
+  extensions: [".svelte", ".md"],
 
   kit: {
     adapter: adapter(),

@@ -1,43 +1,40 @@
-function header(title, author, date, path) {
+import MarkdownIt from "markdown-it";
+import FootnotePlugin from "markdown-it-footnote";
+import YAML from 'yaml';
 
+function header(metadata) {
   return `
     <script context="module" lang="ts">
       import type { Entry } from '$lib/types/Entry';
       import { register } from '$lib/Registry';
-
-      let entry: Entry = {
-        title: ${JSON.stringify(title)},
-        author: ${JSON.stringify(author)},
-        date: ${JSON.stringify(date)},
-        path: ${JSON.stringify(path)}
-      };
+      let entry: Entry = ${JSON.stringify(metadata)};
       register(entry);
     </script>
-
     <script lang="ts">
       import Title from '$lib/components/Title.svelte';
     </script>
-    path is ${JSON.stringify(path)}
     <Title {entry} />`;
 }
 
-
-export function wahoo(options={}) {
+export function markdown() {
   return {
       markup(params) {
-        if (!params.filename.endsWith('.wahoo')) {
+        if (!params.filename.endsWith('.md')) {
           return { code: params.content }
         }
-        const { content, filename } = params;
-        const metaMatches = content.match(/^\-\-\-[\s\S]*\-\-\-/);
+        const md = MarkdownIt('commonmark').use(FootnotePlugin);
+        const content = md.render(
+          params.content.replace(/^\-\-\-[\s\S]*?\-\-\-/, '')
+        );
+        const { filename } = params;
+        const metaMatches = params.content.match(/^\-\-\-[\s\S]*?\-\-\-/);
 
         if(metaMatches) {
           const meta = metaMatches[0];
-          const title = (meta.match(/(?<=title:\s).*/) ?? [''])[0];
-          const author = (meta.match(/(?<=author:\s).*/) ?? [''])[0];
-          const date = (meta.match(/(?<=date:\s).*/) ?? [''])[0];
-          const path = filename.replace(/\.wahoo$/, '').replace(/^.*routes/, '');
-          return { code: header(title, author, date, path) + content.replace(/^\-\-\-[\s\S]*\-\-\-/, '')};
+          let metaObj = YAML.parse(meta.replace(/^\-\-\-/, '').replace(/\-\-\-\s*$/, ''));
+          const path = filename.replace(/\.md$/, '').replace(/^.*routes/, '');
+          metaObj['path'] = path;
+          return { code: header(metaObj) + content };
         }
         return { code: content }
       }

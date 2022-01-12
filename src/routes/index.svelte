@@ -3,12 +3,13 @@
   import { getEntries } from '$lib/Registry';
 
   // !! Vite specific!!
-  const _ = import.meta.globEager('./articles/[!_]*.svelte');
+  const _ = import.meta.globEager('./articles/[!_]*');
 
   let featured = getEntries();
+
 </script>
 
 <main>
-  {#each featured as entry (entry.id)}
+  {#each featured as entry}
     <FeaturedPost {entry} />{/each}
 </main>
