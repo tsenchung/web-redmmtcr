@@ -1,0 +1,39 @@
+html {
+  font-size: 100% !important;
+}
+
+article.article {
+  max-width: 38rem;
+  margin: auto;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  h2 {
+    color: #353535;
+    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+    font-size: 3.5rem;
+    font-weight: 700;
+    line-height: normal;
+    text-align: center;
+  }
+
+  p.author, p.date, p.reading-time {
+    text-align: center;
+    margin: 0 0 0.5rem;
+  }
+
+  p {
+    margin: 0 0 1rem;
+    text-align: left;
+  }
+
+  .title-divider {
+    width: 5rem;
+    margin: 1rem auto 1rem auto;
+    height: 0.5rem;
+    background-color: #353535;
+  }
+
+  .title-details {
+    margin-bottom: 2rem;
+  }
+}

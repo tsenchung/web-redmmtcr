@@ -1,0 +1,40 @@
+/* Write your global styles here, in SCSS syntax. Variables and mixins from the src/variables.scss file are available here without importing */ /* Import only what you need from Bulma */
+@import 'bulma/sass/utilities/_all';
+@import 'bulma/sass/base/_all';
+@import 'bulma/sass/grid/columns';
+@import 'bulma/sass/helpers/_all';
+
+#svelte {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+header {
+  box-shadow: 0 2px 2px -2px rgba(0,0,0,0.2);
+}
+
+nav {
+  padding: 3rem;
+  max-width: $fullhd;
+  margin: auto;
+}
+
+main {
+  padding: 3rem;
+  flex-grow: 1;
+  max-width: $fullhd;
+  width: 100%;
+  margin: auto;
+}
+
+footer {
+  color: white;
+  background-color: rgba(31,47,79,0.8);
+}
+
+footer section.content {
+  max-width: $fullhd;
+  margin: auto;
+  padding: 3rem;
+}
