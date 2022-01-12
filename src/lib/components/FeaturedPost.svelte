@@ -3,10 +3,10 @@
   import type { Entry } from '$lib/types/Entry';
 
   export let entry: Entry = {
-    id: '',
     title: '',
     author: '',
-    date: ''
+    date: '',
+    path: ''
   };
 </script>
 
@@ -14,4 +14,5 @@
   <h2>{entry.title}</h2>
   <p>{entry.author}</p>
   <p>{entry.date}</p>
+  <p>{entry.path}</p>
 </article>

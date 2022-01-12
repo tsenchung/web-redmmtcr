@@ -1,5 +1,7 @@
 import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
+import { markdown } from './preprocessor.js';
+
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
@@ -10,8 +12,11 @@ const config = {
       scss: {
         prependData: '@use "src/variables.scss" as *;'
       }
-    })
+    }),
+    markdown()
   ],
+
+  extensions: [".svelte", ".md"],
 
   kit: {
     adapter: adapter(),
