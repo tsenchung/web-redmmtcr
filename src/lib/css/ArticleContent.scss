@@ -1,13 +1,9 @@
-html {
-  font-size: 100% !important;
-}
-
 article.article {
   max-width: 38rem;
   margin: auto;
   font-family: Georgia, 'Times New Roman', Times, serif;
 
-  h2 {
+  h1 {
     color: #353535;
     font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
     font-size: 3.5rem;
@@ -35,5 +31,31 @@ article.article {
 
   .title-details {
     margin-bottom: 2rem;
+  }
+
+  h2 {
+    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: normal;
+    color: #353535;
+    margin: 1.5rem 0 1.5rem 0;
+    
+  }
+
+  img {
+    display: block;
+    margin: 1.5rem auto 1rem auto;
+    max-width: 100%;
+  }
+
+
+  ul, ol {
+    margin: 1rem 0 1rem 0;
+    padding-left: 2.5rem;
+  }
+
+  ul {
+    list-style: disc inside;
   }
 }

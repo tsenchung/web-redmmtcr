@@ -4,6 +4,10 @@
 @import 'bulma/sass/grid/columns';
 @import 'bulma/sass/helpers/_all';
 
+html {
+  font-size: 100%;
+}
+
 #svelte {
   display: flex;
   flex-direction: column;
@@ -15,13 +19,13 @@ header {
 }
 
 nav {
-  padding: 3rem;
+  padding: 16px 48px 0 48px;
   max-width: $fullhd;
   margin: auto;
 }
 
 main {
-  padding: 3rem;
+  padding: 2rem 3rem 3rem 3rem;
   flex-grow: 1;
   max-width: $fullhd;
   width: 100%;
@@ -31,6 +35,44 @@ main {
 footer {
   color: white;
   background-color: rgba(31,47,79,0.8);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 0.8rem;
+
+  span {
+    line-height: 2;
+  }
+
+  a {
+    color: #fff;
+  }
+
+  a:hover {
+    color: #A6D290;
+  }
+
+  .grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .disclaimer {
+    width: 450px;
+    margin: 1rem 0 1rem 0;
+  }
+
+  .other-sites {
+    width: 225px;
+    margin: 1rem 0 1rem 0;
+  }
+
+  h3 {
+    font-family: "Helvetica Neue","Segoe UI",Helvetica,Arial,sans-serif;;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+    margin: 0 0 1em 0;
+  }
 }
 
 footer section.content {

@@ -5,11 +5,13 @@
     title: '',
     author: '',
     date: '',
-    path: ''
+    path: '',
+    thumbnail: '',
+    placement: ''
   };
 </script>
 
-<h2>{entry.title}</h2>
+<h1>{entry.title}</h1>
 <hr class="title-divider" />
 <section class="title-details">
   <p class="author">{entry.author}</p>
