@@ -5,6 +5,7 @@ article.featured {
   margin-bottom: -100px;
   img {
     width: 100%;
+    min-height: 338px;
     object-fit: cover;
   }
 
@@ -12,7 +13,7 @@ article.featured {
     position: relative;
     top: -100px;
     background-color: white;
-    width: 80%;
+    width: 90%;
     margin: auto;
     padding: 1rem;
 
@@ -39,4 +40,10 @@ article.featured:nth-child(odd) section.detail {
 
 article.featured:nth-child(even) section.detail {
   border: 2px solid rgba(31,47,79, 0.5);
+}
+
+@media screen and (max-width: 550px) {
+  article.featured {
+    padding: 1.5rem 0 1.5rem 0;
+  }
 }

@@ -52,7 +52,7 @@ footer {
 
   .grid {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: wrap-reverse;
     justify-content: space-between;
   }
 
@@ -79,4 +79,21 @@ footer section.content {
   max-width: $fullhd;
   margin: auto;
   padding: 3rem;
+}
+
+
+@media screen and (max-width: 550px) {
+  main, footer {
+    padding: 1rem 1rem 3rem 1rem;
+  }
+
+  nav {
+    padding: 1rem 0 0 0;
+  }
+
+  footer {
+    section.content {
+      padding: 1rem 1rem 1rem 1rem;
+    }
+  }
 }

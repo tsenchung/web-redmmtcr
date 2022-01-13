@@ -42,7 +42,7 @@ Cuando, por otra parte, ha quedado claro que la relativa flexibilización de la 
 
 El déficit fiscal ha devenido una especie de “pesadilla de Freddy Krueger”, en la cual hemos quedado atrapados. Es, a un mismo tiempo, el fantasma que se agita para infundir miedo, y la camisa de fuerza que nos paraliza. Lo absurdo de la situación queda mejor ilustrado, tan solo con que hagamos un somero recuento de las urgentes necesidades que nos acogotan y angustian. Pensemos tan solo en la carencia de adecuados espacios públicos -incluyendo parques, instalaciones deportivas, campos de juego y centros para la práctica del arte-, en nuestros ríos contaminados o en las limitaciones de la infraestructura de cuido para atender a la niñez, las personas mayores o las personas con discapacidad. Y, entretanto, tenemos centenares de miles de personas desempleadas.
 
-¿No es acaso una locura que ni siquiera podamos proveer empleos temporales a esas personas para resolver ese tipo de acuciantes necesidades, mientras encuentran mejores oportunidades de empleo en las empresas? 
+¿No es acaso una locura que ni siquiera podamos proveer empleos temporales a esas personas para resolver ese tipo de acuciantes necesidades, mientras encuentran mejores oportunidades de empleo en las empresas?
 
 *Luis Paulino Vargas Solís, CICDE-UNED, Alajuela, Costa Rica, 7 de septiembre de 2021*
 

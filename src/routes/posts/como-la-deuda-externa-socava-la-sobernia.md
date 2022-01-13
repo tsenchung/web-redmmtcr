@@ -8,7 +8,6 @@ draft: false
 placement: "regular"
 ---
 
-![](/como-la-deuda-externa-socava-la-soberania.png)
 
 “No hay nada que una nación deba evitar tanto como pedir prestado dinero en el extranjero”. Así se lo confió Ulysses Grant al emperador Meiji durante su visita a Japón en agosto de 1879. Después de dar varios ejemplos de naciones esclavizadas por una deuda denominada en moneda extranjera, el decimoctavo presidente estadounidense (1869-1877) sugirió que su anfitrión se deshiciera de la deuda externa de su país lo antes posible, especialmente dado que no era muy grande. “Cuanto antes se devuelva, mejor será para Japón. Japón, si es posible, nunca debería pedir prestado más de una nación extranjera”. Este consejo no cayó en saco roto: los japoneses aprendieron una lección. No puede decirse lo mismo de muchos países africanos, aparte de Argelia, que es rica en hidrocarburos y cuya proporción de deuda externa / PIB es la más baja en el continente.
 

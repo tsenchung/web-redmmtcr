@@ -1,6 +1,7 @@
 <script lang="ts">
   import '$lib/css/FeaturedPost.scss';
   import type { Entry } from '$lib/types/Entry';
+  import { formatDate } from '$lib/date';
 
   export let entry: Entry = {
     title: '',
@@ -8,17 +9,22 @@
     date: '',
     path: '',
     thumbnail: '',
-    placement: ''
+    placement: '',
+    linktitle: '',
+    draft: false,
+    readingTime: 1
   };
 </script>
 
 <article class="featured">
-  <img src={entry.thumbnail} alt="" />
+  <a href={entry.path}>
+    <img src={entry.thumbnail} alt="" />
+  </a>
   <section class="detail">
     <a href={entry.path}>
       <h1>{entry.title}</h1>
       <p>{entry.author}</p>
-      <p>{entry.date}</p>
+      <p>{formatDate(entry.date)}</p>
     </a>
   </section>
 </article>

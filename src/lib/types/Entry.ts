@@ -5,4 +5,8 @@ export interface Entry {
   path: string;
   thumbnail: string;
   placement: string;
+  linktitle: string;
+  draft: boolean;
+  tags?: string[];
+  readingTime: number;
 }

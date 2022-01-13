@@ -1,22 +1,30 @@
 <script lang="ts">
   import type { Entry } from '$lib/types/Entry';
-  import Readotron from '@untemps/svelte-readotron';
+  import { formatDate } from '$lib/date';
+
   export let entry: Entry = {
     title: '',
     author: '',
     date: '',
     path: '',
     thumbnail: '',
-    placement: ''
+    placement: '',
+    linktitle: '',
+    draft: false,
+    readingTime: 1
   };
+
+  function readingTime(entry) {
+    return Math.ceil(entry.readingTime);
+  }
 </script>
 
 <h1>{entry.title}</h1>
 <hr class="title-divider" />
 <section class="title-details">
   <p class="author">{entry.author}</p>
-  <p class="date">{entry.date}</p>
+  <p class="date">{formatDate(entry.date)}</p>
   <p class="reading-time">
-    <Readotron selector="article.article" lang="es" template="Tiempo de lectura: %time% minutos" />
+    Tiempo de lectura: {readingTime(entry)} minuto{readingTime(entry) == 1 ? '' : 's'}
   </p>
 </section>

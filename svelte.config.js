@@ -17,16 +17,18 @@ const config = {
     html()
   ],
 
-  extensions: [".svelte", ".md", ".html"],
+  extensions: [".svelte", ".md"],
 
   kit: {
     adapter: adapter(),
 
     prerender: {
       enabled: true,
-      crawl: true,
+      crawl: false,
       entries: ['*']
     },
+    router: !!process.env.DEV,
+    hydrate: !!process.env.DEV,
 
     // hydrate the <div id="svelte"> element in src/app.html
     target: '#svelte',

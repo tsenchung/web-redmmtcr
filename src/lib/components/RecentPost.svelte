@@ -2,23 +2,30 @@
   import type { Entry } from '$lib/types/Entry';
   import '$lib/css/RecentPost.scss';
 
+  import { formatDate } from '$lib/date';
+
   export let entry: Entry = {
     title: '',
     author: '',
     date: '',
     path: '',
     thumbnail: '',
-    placement: ''
+    placement: '',
+    linktitle: '',
+    draft: false,
+    readingTime: 1
   };
 </script>
 
 <article class="recent">
-  <img src={entry.thumbnail} alt="" />
+  <a href={entry.path}>
+    <img src={entry.thumbnail} alt="" />
+  </a>
   <section class="detail">
     <a href={entry.path}>
       <h2>{entry.title}</h2>
       <p>{entry.author}</p>
-      <p>{entry.date}</p>
+      <p>{formatDate(entry.date)}</p>
     </a>
   </section>
 </article>
