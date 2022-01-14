@@ -9,7 +9,9 @@
 	    public,
 	    max-age=604800,
 	    immutable'''
-	    
+
+
+[[headers]]
   for = "*.webp"
   [headers.values]
     	cache-control = '''
@@ -17,6 +19,8 @@
 	    max-age=604800,
 	    immutable'''
 
+
+[[headers]]
   for = "*.png"
   [headers.values]
     	cache-control = '''
