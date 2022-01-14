@@ -29,7 +29,7 @@ export function html() {
       }
       const meta = metaMatches[0];
       let metaObj = YAML.parse(meta.replace(/^\-\-\-/, '').replace(/\-\-\-\s*$/, ''));
-      const path = filename.replace(/\.svelte$/, '').replace(/^.*routes/, '');
+      const path = filename.replace(/\.svelte$/, '/').replace(/^.*routes/, '');
       metaObj['path'] = path;
       const contentWithoutFrontMatter = content.replace(/^\-\-\-[\s\S]*?\-\-\-/, '');
       metaObj['readingTime'] = readingTime(contentWithoutFrontMatter).minutes;
@@ -55,7 +55,7 @@ export function markdown() {
       if (metaMatches) {
         const meta = metaMatches[0];
         let metaObj = YAML.parse(meta.replace(/^\-\-\-/, '').replace(/\-\-\-\s*$/, ''));
-        const path = filename.replace(/\.md$/, '').replace(/^.*routes/, '');
+        const path = filename.replace(/\.md$/, '/').replace(/^.*routes/, '');
         metaObj['path'] = path;
         metaObj['readingTime'] = readingTime(content).minutes;
         return { code: header(metaObj) + content };
