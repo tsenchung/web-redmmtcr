@@ -1,3 +1,11 @@
 [build]
   command = "npm run build"
   publish = "build/"
+
+[[headers]]
+  for = "*.css"
+  [headers.values]
+    	cache-control = '''
+	    public,
+	    max-age=604800,
+	    immutable'''
