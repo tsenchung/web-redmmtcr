@@ -45,7 +45,7 @@ export function markdown() {
       if (!params.filename.endsWith('.md')) {
         return { code: params.content }
       }
-      const md = MarkdownIt('commonmark').use(FootnotePlugin);
+      const md = MarkdownIt().use(FootnotePlugin);
       const content = md.render(
         params.content.replace(/^\-\-\-[\s\S]*?\-\-\-/, '')
       );
