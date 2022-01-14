@@ -16,6 +16,10 @@
     .sort((a, b) => b.date.localeCompare(a.date));
 </script>
 
+<svelte:head>
+  <title>Red MMT Costa Rica</title>
+</svelte:head>
+
 <main>
   <section class="list">
     {#each featured as entry}
