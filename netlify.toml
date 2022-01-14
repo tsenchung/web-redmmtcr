@@ -9,3 +9,17 @@
 	    public,
 	    max-age=604800,
 	    immutable'''
+	    
+  for = "*.webp"
+  [headers.values]
+    	cache-control = '''
+	    public,
+	    max-age=604800,
+	    immutable'''
+
+  for = "*.png"
+  [headers.values]
+    	cache-control = '''
+	    public,
+	    max-age=604800,
+	    immutable'''
