@@ -19,6 +19,10 @@
   }
 </script>
 
+<svelte:head>
+  <title>{entry.title}</title>
+</svelte:head>
+
 <h1>{entry.title}</h1>
 <hr class="title-divider" />
 <section class="title-details">
