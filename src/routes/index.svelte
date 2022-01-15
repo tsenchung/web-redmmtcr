@@ -2,16 +2,13 @@
   import '$lib/css/index.scss';
   import FeaturedPost from '$lib/components/FeaturedPost.svelte';
   import RecentPost from '$lib/components/RecentPost.svelte';
-  import { getEntries } from '$lib/Registry';
+  import { all } from '$lib/content';
 
-  // !! Vite specific!!
-  const _ = import.meta.globEager('./posts/[!_]*');
-
-  const featured = getEntries()
+  const featured = all
     .filter(({ placement }) => placement == 'featured')
     .sort((a, b) => b.date.localeCompare(a.date));
 
-  const recent = getEntries()
+  const recent = all
     .filter(({ placement }) => placement == 'regular')
     .sort((a, b) => b.date.localeCompare(a.date));
 </script>
