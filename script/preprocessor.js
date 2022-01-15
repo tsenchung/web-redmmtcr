@@ -5,14 +5,9 @@ import readingTime from "reading-time";
 
 function header(metadata) {
   return `
-    <script context="module" lang="ts">
-      import type { Entry } from '$lib/types/Entry';
-      import { register } from '$lib/Registry';
-      let entry: Entry = ${JSON.stringify(metadata)};
-      register(entry);
-    </script>
-    <script lang="ts">
+    <script>
       import Title from '$lib/components/Title.svelte';
+      let entry = ${JSON.stringify(metadata)};
     </script>
     <Title {entry} />`;
 }

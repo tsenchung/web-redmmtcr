@@ -1,6 +1,7 @@
 import adapter from '@sveltejs/adapter-static';
 import preprocess from 'svelte-preprocess';
-import { markdown, html } from './preprocessor.js';
+import { markdown, html } from './script/preprocessor.js';
+import cmsMetadataResolver from './script/cmsMetadataResolver.js';
 
 
 /** @type {import('@sveltejs/kit').Config} */
@@ -27,8 +28,8 @@ const config = {
       crawl: false,
       entries: ['*']
     },
-    router: !!process.env.DEV,
-    hydrate: !!process.env.DEV,
+    router: true,
+    hydrate: true,
 
     // hydrate the <div id="svelte"> element in src/app.html
     target: '#svelte',
@@ -40,7 +41,10 @@ const config = {
             additionalData: '@use "src/variables.scss" as *;'
           }
         }
-      }
+      },
+      plugins: [
+        cmsMetadataResolver()
+      ]
     }
   }
 };
