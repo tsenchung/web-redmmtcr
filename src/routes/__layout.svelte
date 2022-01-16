@@ -1,7 +1,9 @@
 <script>
   import '../app.scss';
+  import LoadingIndicator from '$lib/components/LoadingIndicator.svelte';
 </script>
 
+<LoadingIndicator />
 <header>
   <nav>
     <a href="/" class="logo">
