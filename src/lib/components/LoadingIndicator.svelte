@@ -4,5 +4,5 @@
 </script>
 
 {#if $navigating}
-  <div transition:fade={{ duration: 100 }} class="progress" />
+  <div transition:fade={{ duration: 300 }} class="progress" />
 {/if}
