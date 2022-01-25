@@ -20,9 +20,9 @@
 <main>
   <section class="list">
     {#each featured as entry}
-      <FeaturedPost {entry} />{/each}
+      <FeaturedPost {entry} (entry.path) />{/each}
 
     {#each recent as entry}
-      <RecentPost {entry} />{/each}
+      <RecentPost {entry} (entry.path) />{/each}
   </section>
 </main>
