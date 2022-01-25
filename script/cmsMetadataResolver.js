@@ -11,8 +11,10 @@ export default function cmsMetadataResolver() {
     async buildStart() {
       const filenames = readMetadataInDir("./src/routes/posts");
       for await (let value of filenames) {
-        metadata.set(value.path, value);
-        list.push(value);
+        if (!metadata.has(value.path)) {
+          metadata.set(value.path, value);
+          list.push(value);
+        }
       }
       code = JSON.stringify(list);
     },
