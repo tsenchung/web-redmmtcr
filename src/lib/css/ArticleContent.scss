@@ -65,4 +65,9 @@ article.article {
   ul {
     list-style: disc inside;
   }
+
+  p {
+    text-indent: 3rem;
+    hyphens: auto;
+  }
 }
