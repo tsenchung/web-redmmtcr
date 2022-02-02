@@ -3,8 +3,7 @@ author: "Foro de Confluencia Solidaria y Red MMT Costa Rica"
 date: 2022-01-31
 linktitle: "Cinco propuestas para la ciudadanía costarricense"
 title: "Cinco propuestas para la ciudadanía costarricense"
-image: "images/content/mes-africa.webp"
-thumbnail: "images/content/mes-africa-thumb.webp"
+thumbnail: "images/content/cinco-propuestas.webp"
 draft: false
 placement: "featured"
 ---
