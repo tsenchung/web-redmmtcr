@@ -18,7 +18,7 @@
 </script>
 
 <article class="recent">
-  <a href={entry.path}>
+  <a href={entry.path} aria-hidden="true">
     <img src={entry.thumbnail} alt="" />
   </a>
   <section class="detail">
