@@ -4,7 +4,7 @@ date: 2021-01-17
 linktitle: "Más allá del financiamiento público: el valor de los impuestos"
 title: "Más allá del financiamiento público: el valor de los impuestos"
 thumbnail: "images/content/impuestos.webp"
-placement: "featured"
+placement: "regular"
 draft: false
 ---
 

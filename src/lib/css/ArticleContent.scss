@@ -22,8 +22,9 @@ article.article {
   }
 
   p {
-    margin: 0 0 1rem;
+    margin: 0;
     text-align: left;
+    hyphens: auto;
   }
 
   .title-divider {
@@ -64,5 +65,8 @@ article.article {
 
   ul {
     list-style: disc inside;
+  }
+  p + p {
+    text-indent: 3rem;
   }
 }
