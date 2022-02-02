@@ -17,7 +17,7 @@
 </script>
 
 <article class="featured">
-  <a href={entry.path}>
+  <a href={entry.path} aria-hidden="true" tabindex="-1">
     <img src={entry.thumbnail} alt="" />
   </a>
   <section class="detail">
