@@ -45,17 +45,30 @@ Este análisis no se aplica únicamente al emisor de la moneda de reserva intern
 México se enfrenta a una elección. ¿Debe continuar adoptando medidas de austeridad con la creencia equivocada de que esto es necesario para “financiar” su déficit presupuestario y comercial? ¿O debería adoptar una alternativa que le permita alcanzar el pleno empleo con una mayor estabilidad de precios?
 
 ### Referencias
-- Balbach, Anatol B. 1981. How controllable is money growth? Federal Reserve Bank of St. Louis Review. 63:April.5.
-- Bell, Stephanie. 2000. Do taxes and bonds finance government spending? Journal of Economic Issues. 34: September.603-620.
-- —– y L. Randall Wray. 2003. “Fiscal Impacts on Reserves and the Independence of the Fed”, Journal of Post Keynesian Economics.
-- Brunner, Karl. 1968. The role of money and monetary policy. Federal Reserve Bank of St. Louis Review. 50:July.9.
-- Davidson, Paul. 1994. Post Keynesian Macroeconomic Theory, Aldershot: Edward Elgar.
-- Friedman, Benjamin. 1988. Lessons on monetary policy from the 1980s. Journal of Economic Perspectives. 2:51-72.
-- Friedman, Milton. 1969. The Optimal Quantity of Money and Other Essays. Chicago: Aldine.
-- Goodhart, Charles A.E. 1989. Money, Information and Uncertainty. Cambridge, Mass.: MIT Press.
-- ———. 1998. Two concepts of money: implications for the analysis of optimal currency areas. European Journal of Political Economy. 14:407-432.
-- Moore, Basil, Horizontalists and Verticalists: the macroeconomics of credit money, CambridgeUniversity Press, 1988.
-- Pinto, A. (1973), Inflación: Raíces Estructurales, fondo de Cultura Económica, Serie Lecturas No. 3, Mexico.
-- Wray, L. Randall. 1998.Understanding Modern Money: the key to full employment and price stability. Cheltenham: Edward Elgar.
-- —–. 1990. Money and Credit in Capitalist Economies: the endogenous money approach, Aldershot: Edward Elgar.
-- —–. 2003/4. – Loanable Funds, Liquidity Preference, and Endogenous Money: Do Credit Cards Make a Difference? Journal of Post Keynesian Economics
+Balbach, Anatol B. 1981. How controllable is money growth? Federal Reserve Bank of St. Louis Review. 63:April.5.
+
+Bell, Stephanie. 2000. Do taxes and bonds finance government spending? Journal of Economic Issues. 34: September.603-620.
+
+—– y L. Randall Wray. 2003. “Fiscal Impacts on Reserves and the Independence of the Fed”, Journal of Post Keynesian Economics.
+
+Brunner, Karl. 1968. The role of money and monetary policy. Federal Reserve Bank of St. Louis Review. 50:July.9.
+
+Davidson, Paul. 1994. Post Keynesian Macroeconomic Theory, Aldershot: Edward Elgar.
+
+Friedman, Benjamin. 1988. Lessons on monetary policy from the 1980s. Journal of Economic Perspectives. 2:51-72.
+
+Friedman, Milton. 1969. The Optimal Quantity of Money and Other Essays. Chicago: Aldine.
+
+Goodhart, Charles A.E. 1989. Money, Information and Uncertainty. Cambridge, Mass.: MIT Press.
+
+———. 1998. Two concepts of money: implications for the analysis of optimal currency areas. European Journal of Political Economy. 14:407-432.
+
+Moore, Basil, Horizontalists and Verticalists: the macroeconomics of credit money, CambridgeUniversity Press, 1988.
+
+Pinto, A. (1973), Inflación: Raíces Estructurales, fondo de Cultura Económica, Serie Lecturas No. 3, Mexico.
+
+Wray, L. Randall. 1998.Understanding Modern Money: the key to full employment and price stability. Cheltenham: Edward Elgar.
+
+—–. 1990. Money and Credit in Capitalist Economies: the endogenous money approach, Aldershot: Edward Elgar.
+
+—–. 2003/4. – Loanable Funds, Liquidity Preference, and Endogenous Money: Do Credit Cards Make a Difference? Journal of Post Keynesian Economics
