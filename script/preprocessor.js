@@ -3,13 +3,14 @@ import FootnotePlugin from "markdown-it-footnote";
 import YAML from 'yaml';
 import readingTime from "reading-time";
 
-function header(metadata) {
+function layout(metadata, content) {
   return `
     <script>
       import Title from '$lib/components/Title.svelte';
       let entry = ${JSON.stringify(metadata)};
     </script>
-    <Title {entry} />`;
+    <Title {entry} />
+    <section class="content">${content}</section>`;
 }
 
 export function html() {
@@ -28,7 +29,7 @@ export function html() {
       metaObj['path'] = path;
       const contentWithoutFrontMatter = content.replace(/^\-\-\-[\s\S]*?\-\-\-/, '');
       metaObj['readingTime'] = readingTime(contentWithoutFrontMatter).minutes;
-      const c = header(metaObj) + contentWithoutFrontMatter;
+      const c = layout(metaObj, content);
       return { code: c };
     }
   }
@@ -53,7 +54,7 @@ export function markdown() {
         const path = filename.replace(/\.md$/, '/').replace(/^.*routes/, '');
         metaObj['path'] = path;
         metaObj['readingTime'] = readingTime(content).minutes;
-        return { code: header(metaObj) + content };
+        return { code: layout(metaObj, content) };
       }
       return { code: content }
     }
